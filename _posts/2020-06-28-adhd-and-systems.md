@@ -1,0 +1,75 @@
+---
+layout: post
+title: ADHD and Systems
+date: 2020-06-28 15:48
+author: k3ntuckyblog
+comments: true
+categories: [ADHD, ADHD Systems, neurodiverse]
+---
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">-OR- <br>"I wrote them down in my diary, so that I wouldn't&nbsp;<em>have</em>&nbsp;to remember them." -Henry Jones <br>Indiana Jones and the Last Crusade.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Bruce Lee teaches us to "Absorb what is useful,&nbsp;discard&nbsp;what is useless and add what is specifically your own". I'm reminded of this quote every time I look at the systems I have in place for my life. Call it a system, a process, a habit if you want. They're different names for the same end.  It's a method you develop and refine over time to keep yourself moving forward and being productive.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you have no idea where you would like to start,  the classic technique is to read what successful people have done.  There are plenty of articles about how successful people manage their time or money.&nbsp; It's a great way to get new ideas, but not everything in the "How Elon Musk manages his time" article is useful to everyone... but him, That's why he does it.&nbsp; Not everyone can / is willing to wake up at 3 am, work out at their private gym, break their schedules into 5 minutes increments and then go on to save the cure for cancer from a burning building.&nbsp; Reading these articles, trying to emulate the steps everyday and not being able to stick to them shouldn't make you feel / think you've failed.  A truly great system needs to be tweaked to your specification.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I categorize systems into 2 groups: Daily and Moment. Daily systems are the day to day habits you execute usually taken at or near specific times each day.  Tasks like this can have alarms or notifications set on your phone or computer (Both home and work) to remind you.  Moment systems are a bit tricky as they have to occur when you need them.  The slips in focus or memory can occur at anytime, not just at the most inopportune time.  They will be hard and will require extra insight on your part to know when you need them.  Once you establish the habit, they will start to pay dividends with time savings and tasks completed.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For instance, my nightly daily systems include:<br>Take melatonin by 8:00 pm (I usually have trouble getting to sleep, so I got into the habit of taking 10mg of melatonin at night.  I can sleep without melatonin, it just takes longer.)<br>Also, by 8:00 pm, charge up my sleep phones (I have a couple of hypnosis track I like to listen to at night.  check the TL;DR for more info.)<br>Go to bed between 10:30 pm - 11:00 pm (<em>Even on the weekends?</em>  Yep, I have found I like waking up earlier then staying up late.  When I was younger, I was a night owl.  But now I have flipped.) <br>My morning daily system includes waking up between 5:30 am - 6:00 am and doing any of the following until 7:00 am:<br>A cup of coffee (Duh)<br>Quick full body dumbbell circuit (Nothing extreme, 15 - 20 minutes.  Enough to get the heart rate up and hitting a little of everything.  I'm in the process of trying to workout / get my heart rate up when I feel my focus is fading.)<br>Make time to write or catch up on emails / news. (Early to bed, early to rise, makes a man healthy, wealthy and wise.  I do a little workout for the healthy and I catch up on news so that's the wise.  Now, I'm just waiting for the money to roll in.)<br>At 7:00 am take a shower (At this point, I switch to 'work prep' mode.)<br>While at work, I stop drinking coffee at 11:30 am and switch to drinking water.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>My moment systems apply to home and work.  If I:<br>   &nbsp; -Need to remember something, I write it down.<br>&nbsp;&nbsp;&nbsp;&nbsp; -Have a recurring event, it goes in my google calendar.<br>&nbsp;&nbsp;&nbsp;&nbsp; -Want to focus, I have a playlist I have listened to so many times so I not distracted by unfamiliar sounds or silence.<br>     -Feel my focus fading, I have a 10lbs dumbbell I will do a couple of exercises with (Nothing too crazy.  I'm at work, so I'll be in close proximity to others.) or I get up with my standing desk. (The company I'm with is fine with providing a standing desk, not everyone is like this.  A good alternative is to get up and walk around for a bit.)<br>&nbsp;&nbsp;&nbsp;&nbsp; -Need to start a project, I start slow then pick up speed.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>That's just my system, I'm not saying this is science backed and fool proof, but it's a start.  When you figure out something you want to improve, figure out the emotions behind it and add you own tweaks to make the system fit you. I.E. You're always tired and decide to make a system where you go to bed earlier.  You try going to bed an hour earlier and it's not working for you.  You just can't get to sleep and you end up just laying in bed with your phone.  You could try a few way to improve this system:  Before you go to bed, You turn on 'Do Not Disturb' mode on your devices, so notifications don't tempt you to see yet another picture of your friends new cat, Mr Scuffles.  Maybe DnD mode doesn't do it for you, the temptation is too great.  You decide to try Red light mode on your devices.  It give you the ability the view your device (We're only human, come on!) but not have your brain think the bright light means it day time.  After a while you're able to go to bed, but staying asleep is now an issue.  To correct this, you try taking melatonin.  Soon, you're sleeping good and waking up feeling actually refreshed instead of groggy requiring coffee to really get you going and you may wake up early enough to have extra time to focus on projects, you've been meaning to get to.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Spoiler alert, the person in that example was actually me (<a rel="noreferrer noopener" href="https://www.youtube.com/watch?v=cNgxyL5zEAk" target="_blank">It was me the whole time!</a>).  It took about 3 months to get the final pieces in place, but I really thrive on this system.  If I go to bed too late, or even too early, I feel the system missing and typically wake up later and groggier.  This leads me to drinking more coffee during the day and can further affect my sleep schedule.  Caffeine has a half life of 12 hours in the human system(Basically, the amount of caffeine in your system take 12 hours to become half), So I typically stop drinking coffee at 10:30 am - 11:30 am and switch to drinking water (With some type of drink powder mixed in.  Regular water is like drinking homework.).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Having systems in place doesn't make you bullet-proof though.  Systems are only as good as you make and use them.  If someone tells you about the perfect system, you should look into but if you can't stick to it, then it's not the perfect system for you.  I, just as you, can still fail with any system in place.  </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Should you fail, You shouldn't dwell on it for too long.  Go ahead... Mope, throw yourself a little pity party, and when you're ready to acknowledge the failure and respect the lessons you learn from them; shed that weight and continue moving forward.  Take those first few steps in a new thousand mile journey.  </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>True failure is refusing to improve afterward.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Before I go, I would like to recommend a book.  <a rel="noreferrer noopener" href="https://www.amazon.com/How-Fail-Almost-Everything-Still-ebook/dp/B00COOFBA4" target="_blank">How To Fail at Almost Everything and Still Win Big</a>&nbsp;by Scott Adams, The guy who draws the Dilbert comic strip, serves as a foundation for making systems.  It looks at the difference between having Goals (Tasks with a definite end point) Vs Systems (Processes to continually improve), along with discussing the importance of persuasion and talent stacks (Skills from different sets that compliment each other).  It's also one of the few books I've, and many others, been able to complete.  I'm not endorsed to sell anything, but I do think it's an excellent book.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>TL;DR</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Develop your systems by gathering information (learning how others make their systems), applying what works (Steps you try that work / feel good), discarding what doesn't (doesn't fit your style / not available for you to do) and add what is specifically your own (Tweaking / adding the steps to fit your life).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>When you figure out something you want to improve and have a system in place, figure out your own tweaks to make the system fit you better.  I.E. You're always tired and make a system where you go to bed earlier.  Improve that system by adding a few other things:  <br>Turning on night mode / Do Not Disturb on your devices an hour before going to bed, <br>Turn on night mode (Red light mode) on your devices to turn down blue light,<br>Try taking melatonin to establish that a habit of going to sleep at a certain time.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a rel="noreferrer noopener" href="https://www.amazon.com/How-Fail-Almost-Everything-Still-ebook/dp/B00COOFBA4" target="_blank">How To Fail at Almost Everything and Still Win Big</a>&nbsp;by Scott Adams is a great book to guide you to develop systems.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I mentioned above about listening to hypnosis tracks as part of my nightly daily system.  If you're interested check out <a rel="noreferrer noopener" href="http://hypnosisdownloads.com/" target="_blank">Uncommon Knowledge</a>. They have a good variety of interesting tracks. I'm not endorsed by them, just fan. Unless that's what they WANT me think...</p>
+<!-- /wp:paragraph -->
