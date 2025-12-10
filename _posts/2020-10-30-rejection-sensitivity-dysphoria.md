@@ -39,9 +39,9 @@ categories: [ADHD, Coping, Rejection Sensitivity Dysphoria, RSD]
 
 <p>My personal system for negative thought loops is trying to understand the underlying issue.</p>
 
-<p>Let's look at an example:  A lot of communication with my wife is joking banter. However, comedy itself is a dark art. Unless you're careful and know your audience, someone's feelings can get sacrificed as the butt of the joke. It's easy for a loved one to make what they think is a quick joke, only to end up having RSD creep in. Combine this with the hyperfocus that comes with ADHD and you have an emotional powder keg sitting in the back of your mind, always primed and ready for a spark.</p>
+<p>Let's look at an example:  A lot of communication with my wife is joking banter. However, comedy itself is a dark art. Unless you're careful and know your audience, someone's feelings can get sacrificed for the sake of the joke. It's easy for a loved one to make what they think is a quick joke, only to end up having RSD creep in. Combine this with the hyperfocus that comes with ADHD and you have an emotional powder keg sitting in the back of your mind, always primed and ready for a spark.</p>
 
-<p>Let's say a sick burn just got dropped on us.  Any other time that comment would have bounced right off, so why now? What specifically got us angry?  If we can identify an action or phrase that got to us, we can figure out ways to fix it.  Well, maybe that comment wasn't the actual problem. Maybe something else has been draining on us and that comment was just the final straw? </p>
+<p>Let's say a sick burn just got dropped on us.  Any other time that comment would have bounced right off, so why now? What specifically got us angry? Did we feel the time was appropriate for that joke?  If we can identify an action or phrase that got to us, we can figure out ways to fix it.  Well, maybe that comment wasn't the actual problem. Maybe something else has been draining on us and that comment was just the final straw? </p>
 
 <p>Perhaps there is a need not being met that put us in a bad mood? Are we actually hungry? Worried about something else? Has the constant bombardment of information put our mindset in a different perspective? Sometimes we won't necessarily pinpoint a reason for how we feel.  But it's important we still take stock of how we are feeling.</p>
 
@@ -55,7 +55,7 @@ categories: [ADHD, Coping, Rejection Sensitivity Dysphoria, RSD]
 <!-- wp:heading -->
 <h2>TL; DR</h2>
 <!-- /wp:heading -->
-<p>If you catch yourself in a negative looping thought pattern, Remember:<br>THIS IS NOT YOUR NEW NORMAL.  YOU CAN &amp; WILL GET THROUGH THIS.</p>
+<p>If you catch yourself in a negative looping thought pattern, Remember:<br>THIS IS NOT YOUR NEW NORMAL.  YOU CAN and WILL GET THROUGH THIS.</p>
 
 <p>If you can name it, you can tame it.  Seek out a trusted professional if you feel nothing else is helping.</p>
 
@@ -66,4 +66,3 @@ categories: [ADHD, Coping, Rejection Sensitivity Dysphoria, RSD]
 <p>It takes practice but readying yourself for moments of RSD or remembering the good in your life can help out break the loop and move forward. </p>
 
 <p>If you have the ability, Talk to the person who made the comment.  If it's a loved one, take time to explain why you feel the way you do and see if you both can work on a system to support each other.  </p>
-

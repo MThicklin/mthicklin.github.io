@@ -33,7 +33,7 @@ categories: [ADHD, ADHD Systems, Getting Started, Motivation]
 
 <p><strong>-Small Victories</strong><br>One thing that generates momentum is 'Small Victories'. Doing little things like picking up blankets and moving them to where they go (Don't have to put them up just yet, but it's progress) or putting away just a couple of the <em>many</em> items I may have left out and reflecting on the progress I made up to that point.  That feeling that the time I've invested has yielded progress make me want to make more progress. Even starting to sweep in one area and seeing the amount of dog hair that's been hiding making me want to sweep the rest since I've already started. Side note: My dog, Roxi, is a good girl. But 'good' in the sense of 'Good lord, where did all this freaking hair come from?!'.</p>
 
-<p>Once a good amount of tasks have been done, we can look back and see the progress we've made.  It doesn't have to be a huge amount, but it's a starting point and we did it.  </p>
+<p>Once tasks have been done, we can look back and see the progress we've made.  It doesn't have to be huge, but it's a starting point and we did it.  </p>
 
 <p>-<strong>Putting on some music</strong><br>Having music definitely helps. I have a bit of control over my motivation, but I still need to trick myself into doing mundane tasks like sweeping and cleaning my bedroom.  Having various playlists lets me get lost in the music and I can start knocking stuff out.  I try to make playlists that facilitate a particular mood.  If you need help with some music suggestions, <a rel="noreferrer noopener" href="https://k3ntuckydesign.wordpress.com/music-links/(opens in a new tab)" target="_blank">I know a guy...</a>  </p>
 

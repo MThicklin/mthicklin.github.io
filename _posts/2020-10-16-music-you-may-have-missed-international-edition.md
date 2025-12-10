@@ -9,7 +9,7 @@ categories: [80&#039;s Japanese Pop, 80&#039;s Music, ANRI, Mariya Takeuchi, Mus
 <!-- wp:paragraph {"align":"center"} -->
 <p class="has-text-align-center">-OR-<br />Other countries make music too?!<br /></p>
 
-<p>It's weird coming across something popular in other countries or even worldwide but barely known in America.  One could surmise it's the cultural bubble one lives in with their country.  Others might cite America's tendency to shove entertainment down everyone's throats.  Maybe or maybe that's what you get to do when you're number #1!</p>
+<p>It's weird coming across something popular in other countries or even worldwide but barely known in America.  One could surmise it's the cultural bubble one lives in with their country.  Others might cite America's tendency to shove entertainment down everyone's throats.  Maybe... Or maybe that's what you get to do when you're number #1!</p>
 
 <p>So sit back, click a link, turn on subtitles and enjoy some foreign (At least to me) tunes!</p>
 <!-- wp:heading -->

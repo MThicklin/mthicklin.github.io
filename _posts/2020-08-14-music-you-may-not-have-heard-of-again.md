@@ -45,7 +45,7 @@ categories: [Electro Swing, Music, Music Review, Stop making posts like this]
 <!-- wp:list -->
 <ul><li>Lyre Le Temps</li></ul>
 <!-- /wp:list -->
-<p>In <a rel="noreferrer noopener" href="https://k3ntuckydesign.wordpress.com/2020/04/07/music-you-may-not-have-heard-of/" target="_blank">my last post music post</a>, I mentioned Electro Swing.   This would be a good introduction to the genre.  So many Electro swing songs tend to be remixes of, or borrow heavily from, big band / swing music to make something more contemporary.  This song falls into the latter category with a nice mix of horns and synths.  </p>
+<p>In <a rel="noreferrer noopener" href="https://k3ntuckydesign.wordpress.com/2020/04/07/music-you-may-not-have-heard-of/" target="_blank">my last post music post</a>, I mentioned Electro Swing.  This would be a good introduction to the genre.  So many Electro swing songs tend to be remixes of, or borrow heavily from, big band / swing music to make something more contemporary.  This song falls into the latter category with a nice mix of horns and synths.  </p>
 <!-- wp:quote -->
 <blockquote class="wp-block-quote"><p>Am I looking like this?<br>Tell me, am I looking like this?<br>No not at all, you can't control<br>You think I'm showy, but I'm not at all</p><cite>Lyre Le Temps - Looking like this</cite></blockquote>
 <!-- /wp:quote -->
