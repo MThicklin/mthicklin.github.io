@@ -6,7 +6,7 @@ author: k3ntuckyblog
 comments: true
 categories: [Electro Swing, Music, Music Review, Stop making posts like this]
 ---
-<!-- wp:paragraph {"align":"center"} -->
+
 <p class="has-text-align-center">-OR-<br>I'm giving up on trying to sell you things that you ain't buying...<br>Lisa Frank 420 / Modern Computing - Macintosh Plus</p>
 
 <p>When I go out searching for new music, I try to tap different sources.  Many times it's the Youtube recommended list.  Sometimes... when I'm just absolutely desperate I try the radio.  On road trips it's definitely Sirius XM radio.</p>
@@ -15,8 +15,8 @@ categories: [Electro Swing, Music, Music Review, Stop making posts like this]
 
 <p>So sit back, buckle in and chill as I go over a couple of songs I've found on Sirius XM you may have missed.  </p>
 <!-- wp:heading {"level":3} -->
-<h3 id="violence"><a rel="noreferrer noopener" href="https://open.spotify.com/album/6G8IwjN1Kdp0MncExVx6cF?highlight=spotify:track:5MQz02DFkMOzvgmSC2eAYI" target="_blank">Violence</a></h3>
-<!-- /wp:heading -->
+<h3 id="violence"><a href="https://open.spotify.com/album/6G8IwjN1Kdp0MncExVx6cF?highlight=spotify:track:5MQz02DFkMOzvgmSC2eAYI" target="_blank">Violence</a></h3>
+
 
 <!-- wp:list -->
 <ul><li>Grimes &amp; i_o</li></ul>
@@ -27,8 +27,8 @@ categories: [Electro Swing, Music, Music Review, Stop making posts like this]
 <!-- /wp:quote -->
 <p>Note: I know I'm showing up late to the party, but I only just found she's not only dating Elon Musk, the '<em>I'm not like other girls</em>' of billionaires, but also had baby with him.  The internet blew the heck up about the baby boy and his subsequent train wreck of letters and symbolism his name became.  <br>I just wanted to make sure my couple of cheap shots were recorded somewhere.</p>
 <!-- wp:heading {"level":3} -->
-<h3 id="say-say-say"><a href="https://www.youtube.com/watch?v=aLEhh_XpJ-0" target="_blank" rel="noreferrer noopener">Say Say Say</a></h3>
-<!-- /wp:heading -->
+<h3 id="say-say-say"><a href="https://www.youtube.com/watch?v=aLEhh_XpJ-0" target="_blank">Say Say Say</a></h3>
+
 
 <!-- wp:list -->
 <ul><li>Paul McCartney and Michael Jackson</li></ul>
@@ -39,23 +39,23 @@ categories: [Electro Swing, Music, Music Review, Stop making posts like this]
 <!-- /wp:quote -->
 
 <!-- wp:heading {"level":3} -->
-<h3 id="looking-like-this"><a href="https://www.youtube.com/watch?v=9GEmMx9R8io" target="_blank" rel="noreferrer noopener">Looking like this</a></h3>
-<!-- /wp:heading -->
+<h3 id="looking-like-this"><a href="https://www.youtube.com/watch?v=9GEmMx9R8io" target="_blank">Looking like this</a></h3>
+
 
 <!-- wp:list -->
 <ul><li>Lyre Le Temps</li></ul>
 <!-- /wp:list -->
-<p>In <a rel="noreferrer noopener" href="https://k3ntuckydesign.wordpress.com/2020/04/07/music-you-may-not-have-heard-of/" target="_blank">my last post music post</a>, I mentioned Electro Swing.  This would be a good introduction to the genre.  So many Electro swing songs tend to be remixes of, or borrow heavily from, big band / swing music to make something more contemporary.  This song falls into the latter category with a nice mix of horns and synths.  </p>
+<p>In <a href="https://k3ntuckydesign.wordpress.com/2020/04/07/music-you-may-not-have-heard-of/" target="_blank">my last post music post</a>, I mentioned Electro Swing.  This would be a good introduction to the genre.  So many Electro swing songs tend to be remixes of, or borrow heavily from, big band / swing music to make something more contemporary.  This song falls into the latter category with a nice mix of horns and synths.  </p>
 <!-- wp:quote -->
 <blockquote class="wp-block-quote"><p>Am I looking like this?<br>Tell me, am I looking like this?<br>No not at all, you can't control<br>You think I'm showy, but I'm not at all</p><cite>Lyre Le Temps - Looking like this</cite></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:heading {"level":3} -->
-<h3 id="lisa-frank-420-modern-computing"><a rel="noreferrer noopener" href="https://www.youtube.com/watch?v=bAgmGZ9iQ2Y" target="_blank">Lisa Frank 420 / Modern Computing</a></h3>
-<!-- /wp:heading -->
+<h3 id="lisa-frank-420-modern-computing"><a href="https://www.youtube.com/watch?v=bAgmGZ9iQ2Y" target="_blank">Lisa Frank 420 / Modern Computing</a></h3>
+
 
 <!-- wp:list -->
-<ul><li><a rel="noreferrer noopener" href="https://open.spotify.com/artist/0aHFAt3c3C648WXJP7GCRc?autoplay=true" target="_blank">Macintosh Plus (Vektroid)</a></li></ul>
+<ul><li><a href="https://open.spotify.com/artist/0aHFAt3c3C648WXJP7GCRc?autoplay=true" target="_blank">Macintosh Plus (Vektroid)</a></li></ul>
 <!-- /wp:list -->
 <p>Nestled in the weirder parts of the internet is an interesting genre called vaporwave (not to be confuse with vaporware, software that is announced but never actually released).  The sound has been described as "made less for enjoyment than for the regulation of mood" and I feel that.  Equal parts internet meme,  music genre, and visual aesthetic; the album, Floral Shoppe, where Lisa Frank 420 / Modern Computing comes from is cited as the blueprint for the genre. The song isn't meant to be rocked out to but more of an ASMR vibe.  WARNING: Around the 5:20 mark, the instrumentals start getting out of sync with the vocals.  I'm sure this is a part of aesthetics, but it's annoys me to no end.</p>
 <!-- wp:quote -->
@@ -64,10 +64,10 @@ categories: [Electro Swing, Music, Music Review, Stop making posts like this]
 
 <!-- wp:heading {"level":3} -->
 <h3 id="same-old"><a href="https://www.youtube.com/watch?v=vEi2wUcREJ4">Same Old</a></h3>
-<!-- /wp:heading -->
+
 
 <!-- wp:list -->
-<ul><li><a rel="noreferrer noopener" href="https://iamoffbeat.com/" target="_blank">Offbeat</a></li></ul>
+<ul><li><a href="https://iamoffbeat.com/" target="_blank">Offbeat</a></li></ul>
 <!-- /wp:list -->
 <p><em>K3ntucky, is this more of that electro-swing crap you're always shoving in your reader's face?</em><br>How dare you accurately describe what I'm doing!  But there is a twist dear reader, Offbeat isn't really so much Electro-Swing, he's more Swing-hop (Hip-swing?).  It's more combining hip-hop lyrics and swing type instrumentals.  <em>Anyway,</em> the genre shouldn't matter if it's a good song and I'm putting what little credibility I have left on the line to say that this is, indeed, a good song.  </p>
 
@@ -77,5 +77,5 @@ categories: [Electro Swing, Music, Music Review, Stop making posts like this]
 <!-- /wp:quote -->
 <p>All right, we've reached our destination.  Time to unbuckle, get out, and stretch our legs.</p>
 
-<p>TL;DR<br><a rel="noreferrer noopener" href="https://open.spotify.com/album/6G8IwjN1Kdp0MncExVx6cF?highlight=spotify:track:5MQz02DFkMOzvgmSC2eAYI" target="_blank">Grimes &amp; i_o - Violence</a><br><a rel="noreferrer noopener" href="https://www.youtube.com/watch?v=aLEhh_XpJ-0" target="_blank">Paul McCartney and Michael Jackson - Say Say Say</a><br><a rel="noreferrer noopener" href="https://www.youtube.com/watch?v=9GEmMx9R8io" target="_blank">Looking like this - Lyre Le Temps</a><br><a rel="noreferrer noopener" href="https://www.youtube.com/watch?v=bAgmGZ9iQ2Y" target="_blank">Lisa Frank 420 / Modern Computing - Macintosh Plus</a><br><a rel="noreferrer noopener" href="https://www.youtube.com/watch?v=vEi2wUcREJ4" target="_blank">OffBeat - Same Old</a></p>
+<p>TL;DR<br><a href="https://open.spotify.com/album/6G8IwjN1Kdp0MncExVx6cF?highlight=spotify:track:5MQz02DFkMOzvgmSC2eAYI" target="_blank">Grimes &amp; i_o - Violence</a><br><a href="https://www.youtube.com/watch?v=aLEhh_XpJ-0" target="_blank">Paul McCartney and Michael Jackson - Say Say Say</a><br><a href="https://www.youtube.com/watch?v=9GEmMx9R8io" target="_blank">Looking like this - Lyre Le Temps</a><br><a href="https://www.youtube.com/watch?v=bAgmGZ9iQ2Y" target="_blank">Lisa Frank 420 / Modern Computing - Macintosh Plus</a><br><a href="https://www.youtube.com/watch?v=vEi2wUcREJ4" target="_blank">OffBeat - Same Old</a></p>
 

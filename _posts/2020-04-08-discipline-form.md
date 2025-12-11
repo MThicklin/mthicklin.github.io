@@ -6,7 +6,7 @@ author: k3ntuckyblog
 comments: true
 categories: [Chrome, CSS, Discipline Form, HR Form, HTML, HTML Design, Javascript, Projects, Stand-alone web form, Web Development]
 ---
-<!-- wp:paragraph {"align":"center"} -->
+
 <p class="has-text-align-center">-OR-<br>Snitches get stitches in the britches...<br></p>
 
 <p>     HR approached me, like the beginning of so many 'headache' stories, requesting to make a standardized form for reporting disciplinary issues.  Now, I'm no snitch, I try to avoid stitches when possible.  But I <em>do</em> like making processes more efficient.   </p>
@@ -20,11 +20,11 @@ categories: [Chrome, CSS, Discipline Form, HR Form, HTML, HTML Design, Javascrip
 <p>Let's look at the user story:<br>     Ability to enter the info info of the manager, employee, incident, what actions were taken.<br>     Display the actual wording from the company manual.<br>     Have the form remind everyone what the next course of action would be depending on the actions / issue on the form.<br>     Be able to email / print form as a PDF.</p>
 
 <p> This is the final product:</p>
-<!-- wp:paragraph {"align":"center"} -->
+
 <p class="has-text-align-center"><a href="https://codepen.io/melvinhicklin/pen/ExaJzMV">CodePen.io</a></p>
 
 <p>Basic looking? Yes.  But we don't need <em>fancy</em>, we just need <em>functional</em>, Fancy can always come later.  </p>
-<!-- wp:paragraph {"align":"center"} -->
+
 <p class="has-text-align-center">Of course, feel free to use this form and change it around to fit your purpose.  <br>You can put lipstick on this pig and sent it to the rodeo in your version.  </p>
 
 <p>     Overall, It's a simple form but there are a few things I want to want to point out.  Our current environment uses Chrome as an alternative browser, So a chrome shortcut that would pull up the page directly from a place on our network:<br>"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" file:///&lt;File location&gt;<br>    This gives me the added benefits of native PDF printing along with being able update in the background and users not noticing.<br>Starting at the top we have:</p>

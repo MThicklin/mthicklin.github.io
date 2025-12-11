@@ -6,7 +6,7 @@ author: k3ntuckyblog
 comments: true
 categories: [Magic, Magic Tricks, Party Tricks, Sleight of Hand]
 ---
-<!-- wp:paragraph {"align":"center"} -->
+
 <p class="has-text-align-center">-OR-<br>For my next trick, watch your respect for me and my self esteem... Disappear! </p>
 
 <p>I believe everyone should have a magic trick or two up their sleeve (Ba-dum-tish).  Nothing fancy.  Nothing they have to buy, have a hidden partner to help with, or require a lot of set up time.  Just a couple of sleight of hand tricks to pull out when the opportunity presents itself.</p>

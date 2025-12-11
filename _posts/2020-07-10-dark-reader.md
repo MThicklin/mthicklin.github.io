@@ -6,7 +6,7 @@ author: k3ntuckyblog
 comments: true
 categories: [Dark Mode, Dark Reader, Extension, Extension Review, Extensions, Reviews]
 ---
-<!-- wp:paragraph {"align":"center"} -->
+
 <p class="has-text-align-center">-OR-<br>"If Only You Knew The Power Of The Dark Side..." <br>-Darth Vader, Empire Strikes Back</p>
 
 <p>Most of my day, and foreseeable future, consists of staring at a computer screen.  Whether it's work, hobby programming or... um... maybe when you're older (I play a couple of first person shooters that might not be appropriate for the younger audience).  Because of all my screen time, I try whatever I can to ensure I'm not cooking my retinas or causing long term damage to myself.</p>
@@ -20,7 +20,7 @@ categories: [Dark Mode, Dark Reader, Extension, Extension Review, Extensions, Re
 <p>But many websites don't have the option of a dark mode...</p>
 <!-- wp:media-text {"mediaId":1279,"mediaType":"image","mediaWidth":28} -->
 <div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:28% auto;"><figure class="wp-block-media-text__media"><img src="https://k3ntuckydesign.files.wordpress.com/2020/07/dark-reader-menu-2.png?w=260" alt="" class="wp-image-1279" /></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content\u2026","fontSize":"large"} -->
-<p class="has-large-font-size">So, Thank goodness for plugins! Specifically, <a rel="noreferrer noopener" href="https://darkreader.org/" target="_blank">Dark Reader</a> by <a href="https://github.com/darkreader/darkreader/commits?author=alexanderby">alexanderby</a>. An excellent extension that handles the task of inverting the standard white background and black text theme on web pages.</p>
+<p class="has-large-font-size">So, Thank goodness for plugins! Specifically, <aorg/" target="_blank">Dark Reader</a> by <a href="https://github.com/darkreader/darkreader/commits?author=alexanderby">alexanderby</a>. An excellent extension that handles the task of inverting the standard white background and black text theme on web pages.</p>
 </div></div>
 <!-- /wp:media-text -->
 

@@ -17,8 +17,8 @@ categories: [403 Forbiddena, bulldog Mansion, Courtney Barnett, F.M. Einheit, Gr
 
 <p>I want to dive into a couple of songs that I have come across in my travels and maybe help others find a new song they might like.</p>
 <!-- wp:heading {"level":3} -->
-<h3><a href="https://www.youtube.com/watch?v=H-wm0EdoeN8" target="_blank" rel="noreferrer noopener">Elevator Operator</a></h3>
-<!-- /wp:heading -->
+<h3><a href="https://www.youtube.com/watch?v=H-wm0EdoeN8" target="_blank">Elevator Operator</a></h3>
+
 
 <!-- wp:list -->
 <ul><li> Artist(s): Courtney Barnett / Punk Rock /  Australian</li></ul>
@@ -29,8 +29,8 @@ categories: [403 Forbiddena, bulldog Mansion, Courtney Barnett, F.M. Einheit, Gr
 <!-- /wp:quote -->
 
 <!-- wp:heading {"level":3} -->
-<h3><a href="https://www.youtube.com/watch?v=65u_tbL19tA" target="_blank" rel="noreferrer noopener">Northern Lights</a> / <a href="https://www.youtube.com/watch?v=e37Ri_5xY5U" target="_blank" rel="noreferrer noopener">Southern Cross</a></h3>
-<!-- /wp:heading -->
+<h3><a href="https://www.youtube.com/watch?v=65u_tbL19tA" target="_blank">Northern Lights</a> / <a href="https://www.youtube.com/watch?v=e37Ri_5xY5U" target="_blank">Southern Cross</a></h3>
+
 
 <!-- wp:list -->
 <ul><li> Artist(s): 403 Forbiddena /  Melodic Power Speed Metal Rock  /  Japan</li></ul>
@@ -45,8 +45,8 @@ categories: [403 Forbiddena, bulldog Mansion, Courtney Barnett, F.M. Einheit, Gr
 <!-- /wp:quote -->
 
 <!-- wp:heading {"level":3} -->
-<h3><a href="https://www.youtube.com/watch?v=q_ZUhJ33X80" target="_blank" rel="noreferrer noopener">Happy Birthday to Me</a></h3>
-<!-- /wp:heading -->
+<h3><a href="https://www.youtube.com/watch?v=q_ZUhJ33X80" target="_blank">Happy Birthday to Me</a></h3>
+
 
 <!-- wp:list -->
 <ul><li> Artist(s): Bulldog Mansion / K-Pop Rock / Korea</li></ul>
@@ -63,8 +63,8 @@ categories: [403 Forbiddena, bulldog Mansion, Courtney Barnett, F.M. Einheit, Gr
 <!-- /wp:quote -->
 
 <!-- wp:heading {"level":3} -->
-<h3><a href="https://www.youtube.com/watch?v=xgtdETevhUY" target="_blank" rel="noreferrer noopener">Princess Crocodile</a></h3>
-<!-- /wp:heading -->
+<h3><a href="https://www.youtube.com/watch?v=xgtdETevhUY" target="_blank">Princess Crocodile</a></h3>
+
 
 <!-- wp:list -->
 <ul><li> Artist(s): F.M. Einheit and Gry / Electro Swing / France</li></ul>
@@ -82,6 +82,6 @@ categories: [403 Forbiddena, bulldog Mansion, Courtney Barnett, F.M. Einheit, Gr
 
 <!-- wp:heading {"level":3} -->
 <h3>Outro</h3>
-<!-- /wp:heading -->
-<p>So there you go, 5 Songs I have come across each having a particular flavor to them.  If you're feeling adventurous, give them a try:<br><a href="https://www.youtube.com/watch?v=H-wm0EdoeN8">Courtney Barnett - Elevator O</a><a href="https://www.youtube.com/watch?v=H-wm0EdoeN8" target="_blank" rel="noreferrer noopener">perator</a><br><a href="https://www.youtube.com/watch?v=65u_tbL19tA">403 Forbiddena - Northe</a><a href="https://www.youtube.com/watch?v=65u_tbL19tA" target="_blank" rel="noreferrer noopener">rn Lights</a><br><a href="https://www.youtube.com/watch?v=e37Ri_5xY5U">403 Forbiddena - Sout</a><a href="https://www.youtube.com/watch?v=e37Ri_5xY5U" target="_blank" rel="noreferrer noopener">hern Cross</a><br><a rel="noreferrer noopener" href="https://www.youtube.com/watch?v=q_ZUhJ33X80" target="_blank">Bulldog Mansion - Happy Birthday to Me</a><br><a href="https://www.youtube.com/watch?v=xgtdETevhUY" target="_blank" rel="noreferrer noopener">Princess Crocodile&nbsp;- F.M. Einheit and Gry</a></p>
+
+<p>So there you go, 5 Songs I have come across each having a particular flavor to them.  If you're feeling adventurous, give them a try:<br><a href="https://www.youtube.com/watch?v=H-wm0EdoeN8">Courtney Barnett - Elevator O</a><a href="https://www.youtube.com/watch?v=H-wm0EdoeN8" target="_blank">perator</a><br><a href="https://www.youtube.com/watch?v=65u_tbL19tA">403 Forbiddena - Northe</a><a href="https://www.youtube.com/watch?v=65u_tbL19tA" target="_blank">rn Lights</a><br><a href="https://www.youtube.com/watch?v=e37Ri_5xY5U">403 Forbiddena - Sout</a><a href="https://www.youtube.com/watch?v=e37Ri_5xY5U" target="_blank">hern Cross</a><br><a href="https://www.youtube.com/watch?v=q_ZUhJ33X80" target="_blank">Bulldog Mansion - Happy Birthday to Me</a><br><a href="https://www.youtube.com/watch?v=xgtdETevhUY" target="_blank">Princess Crocodile&nbsp;- F.M. Einheit and Gry</a></p>
 

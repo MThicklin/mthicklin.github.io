@@ -6,7 +6,7 @@ author: k3ntuckyblog
 comments: true
 categories: [ADHD, impulsive buying, neurodiverse]
 ---
-<!-- wp:paragraph {"align":"center"} -->
+
 <p class="has-text-align-center">-OR-<br>How I learned to stop worrying and not impulsively buy stuff.</p>
 
 <p>As I learn more about what ADHD actually is (Turns out it's more then just 'can't pay attention'); I'm given more insight into myself and why my mind processes the way it does.  One aspect I learned to mostly control early on is the tendency to impulsively buy or collect stuff.</p>
@@ -40,9 +40,9 @@ categories: [ADHD, impulsive buying, neurodiverse]
 <p>While we must learn to respect and make peace with our internal thoughts, never discount the external enemies of distraction we battle for the hold of our attention. A wide variety of advertising algorithms specifically aimed at our incredibly niche tastes are a constant threat to hijack our senses and convince us that their product is the missing key to our lives.  But, as Sun Tzu teaches us, 'If you know your enemy and know yourself, you need not fear the result of a hundred battles.'</p>
 
 <p>I think I heard someone in the back, "So what? That's easy for you say, you have self control."  Self control is something we will constantly work on and improve over our lives and our will power alone can only take us so far.  It's easy to fall prey to the seductive positive effects of buying things.  We must find systems that work for us and realize a slip up isn't the end, but a chance to improve the system and, in effect, ourselves.</p>
-<!-- wp:heading -->
+
 <h2>TL;DR</h2>
-<!-- /wp:heading -->
+
 <p><strong>Slip ups ARE NOT failures. It's only a failure if you refuse to improve afterwards.</strong></p>
 
 <p>Replace "I have to have this" style of thinking with:<br>     Do I really need this, right now?<br>     What is a replacement for this?<br>     Is this really missing in my life?</p>

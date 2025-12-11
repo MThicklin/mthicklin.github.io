@@ -6,7 +6,7 @@ author: k3ntuckyblog
 comments: true
 categories: [Campy, Campy Movies, In Like Flint, Movie review, Movies, Our Man Flint, Reviews, Spy Movies]
 ---
-<!-- wp:paragraph {"align":"center"} -->
+
 <p class="has-text-align-center">-OR-<br>One of America's answers to James Bond was pretty goofy.</p>
 
 <p><em>Note: In an effort to watch movies we've always 'been meaning to watch'; my wife and I compiled a list of 20 movies (10 each from each of us) and we have Google choose a random number to decide the movie.  Sometimes good, a lot of times bad; we've made pretty good progress so far.</em></p>
@@ -33,5 +33,5 @@ categories: [Campy, Campy Movies, In Like Flint, Movie review, Movies, Our Man F
 
 <p>K3ntucky finds these to be "Interesting" notes:<br>Originally This movie was on the list as "In like Flynn" (which is a movie about Australian actor Errol Flynn). This was due to me mishearing my family when they talked about this movie.  Then it turned out to be the sequel.</p>
 
-<p>In Like Flint and <em><a href="https://en.wikipedia.org/wiki/Caprice_(1967_film)">Caprice</a></em>, starring Doris Day, were the last movies shot in the CinemaScope format. After these films, The industry moved to used <a rel="noreferrer noopener" href="https://en.wikipedia.org/wiki/Panavision" target="_blank">Panavision</a>.</p>
+<p>In Like Flint and <em><a href="https://en.wikipedia.org/wiki/Caprice_(1967_film)">Caprice</a></em>, starring Doris Day, were the last movies shot in the CinemaScope format. After these films, The industry moved to used <a href="https://en.wikipedia.org/wiki/Panavision" target="_blank">Panavision</a>.</p>
 

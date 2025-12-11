@@ -6,10 +6,10 @@ author: k3ntuckyblog
 comments: true
 categories: [ADHD, Coping, Rejection Sensitivity Dysphoria, RSD]
 ---
-<!-- wp:paragraph {"align":"center"} -->
+
 <p class="has-text-align-center">-OR- <br>I'm one step closer to the edge and I'm about to break...</p>
 
-<p>First off I want to mention <a rel="noreferrer noopener" href="https://adhd-alien.tumblr.com/post/186401249579/my-intense-emotions-make-it-hard-to-be-myself" target="_blank">ADHD-Alien</a>, where this weeks picture came from.  She is an artist that makes comics about her experiences with ADHD.  They are cute but their subject matter can shed new light on ADHD.  Her comic about how ADHD can mask itself as depression is what got me to discover the ADHD community.</p>
+<p>First off I want to mention <a href="https://adhd-alien.tumblr.com/post/186401249579/my-intense-emotions-make-it-hard-to-be-myself" target="_blank">ADHD-Alien</a>, where this weeks picture came from.  She is an artist that makes comics about her experiences with ADHD.  They are cute but their subject matter can shed new light on ADHD.  Her comic about how ADHD can mask itself as depression is what got me to discover the ADHD community.</p>
 
 <p>Ever have a good day crumble because a friend or family member said a thing in just the right tone?  This comment, at any other time, would have been completely normal;  but for some reason, it was the right words with the right tone and it cut right to the core?  Maybe your significant other said YOU need to do the dishes, after they've done them 3 nights in a row.  Maybe a co-worker said YOU missed this minor step and it resulted in more work for them.  You try to let it go, but you keep thinking...</p>
 
@@ -25,7 +25,7 @@ categories: [ADHD, Coping, Rejection Sensitivity Dysphoria, RSD]
 
 <p>When I diagnosed with ADD as a kid, my treatment was take Ritalin and work on focusing.  During this time (Early to mid 90s), ADD was just thought to be more of a 'kid can't focus' condition.  Not much was known about the emotional aspect of  it.  Of course, there's every chance that I was told about the emotional ramifications but due to "lack of focus" and "being a kid", I probably zoned out.  This, in turn, made me feel less in control and more prone to act out.</p>
 
-<p>As I "matured", I noticed I had a habit of reading too deep into what people said or just couldn't let stuff go.  If something felt wrong about what they said or how they said it, it put me in a bad mood that I would dwell on.  I felt something else had to be going on and, in a sense, I was right.  <a rel="noreferrer noopener" href="https://lmgtfy.app/?q=Rejection+Sensitivity+Dysphoria" target="_blank">Rejection Sensitivity Dysphoria</a> (RSD) is an extra factor in the background that steers me in that direction.  While RSD is acknowledged, it's not recognized as a disorder by the <a rel="noreferrer noopener" href="https://www.psychiatry.org/psychiatrists/practice/dsm" target="_blank">DSM-V</a>. There isn't really a diagnosis guide for it, but that doesn't lessen the effects one can feel from it.</p>
+<p>As I "matured", I noticed I had a habit of reading too deep into what people said or just couldn't let stuff go.  If something felt wrong about what they said or how they said it, it put me in a bad mood that I would dwell on.  I felt something else had to be going on and, in a sense, I was right.  <a href="https://lmgtfy.app/?q=Rejection+Sensitivity+Dysphoria" target="_blank">Rejection Sensitivity Dysphoria</a> (RSD) is an extra factor in the background that steers me in that direction.  While RSD is acknowledged, it's not recognized as a disorder by the <a href="https://www.psychiatry.org/psychiatrists/practice/dsm" target="_blank">DSM-V</a>. There isn't really a diagnosis guide for it, but that doesn't lessen the effects one can feel from it.</p>
 
 <p>RSD is characterized by having a sudden overt sensitivity to criticism and situations where the person may think they could get hurt emotionally.  This can cause person to feel like they act different around others or just avoid the situations all to together.</p>
 
@@ -52,9 +52,9 @@ categories: [ADHD, Coping, Rejection Sensitivity Dysphoria, RSD]
 <p>When it comes to jokes, I'm getting better at recognizing when something was a little too spicy for me.  Now I have a system to make sure RSD is under control.  It took time to develop the system, but it's time well spent.</p>
 
 <p>It's important to note that people tend to remember bad things more clearly then good things because we tend to think life should be good in general. That's not an argument to say optimism is a waste of time, far from it. You don't have to keep a gratitude journal (Unless you want to) but taking some time to remember the good around you helps you get past the bad.  If you feel nothing else is working, or really if you '<strong><span style="text-decoration:underline;">just want to</span></strong>', please seek the help of a professional.</p>
-<!-- wp:heading -->
+
 <h2>TL; DR</h2>
-<!-- /wp:heading -->
+
 <p>If you catch yourself in a negative looping thought pattern, Remember:<br>THIS IS NOT YOUR NEW NORMAL.  YOU CAN and WILL GET THROUGH THIS.</p>
 
 <p>If you can name it, you can tame it.  Seek out a trusted professional if you feel nothing else is helping.</p>

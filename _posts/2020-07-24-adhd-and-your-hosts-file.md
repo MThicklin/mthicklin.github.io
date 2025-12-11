@@ -6,7 +6,7 @@ author: k3ntuckyblog
 comments: true
 categories: [ADHD, ADHD Systems, Blocking websites, Computers, Customizing, Distracted Web Surfing, HOSTS file, Security]
 ---
-<!-- wp:paragraph {"align":"center"} -->
+
 <p class="has-text-align-center">-OR-<br />Let's learn how to block websites with the HOSTS file.</p>
 
 <p>We all like the internet, right?  Well, 'Like' is a strong word for like 98% websites.  Porn, gambling, social media and generally distracting websites are all well and good until you get to the point where 'like' get replaced with 'get sidetracked by'.  For people with ADHD, the internet can easily become a major distraction.  </p>
@@ -35,9 +35,9 @@ categories: [ADHD, ADHD Systems, Blocking websites, Computers, Customizing, Dist
 
 <p><em>But K3ntucky, do you know how many websites there are? Hundreds, literally hundreds! How can I block them all?</em></p>
 
-<p>A lot of smart people on the internet have taken the time to curate HOSTS lists for others to use.  I personally like the list made by a gentleman named <a rel="noreferrer noopener" href="https://github.com/StevenBlack/hosts" target="_blank">Steven Black.</a>  He creates huge HOSTS files, ranging from 57,294 to 82,879 unique domains, and splits them into 15 variations to focus on your particular need.  Find a curated list of sites, add them to your HOSTS files and then add your specific sites disruptive to your productivity and you've created a system to protect yourself.  You've denied the battle and by default won.  It's not perfect, as you can always go in and unblock it.  But it's a way forward.</p>
+<p>A lot of smart people on the internet have taken the time to curate HOSTS lists for others to use.  I personally like the list made by a gentleman named <a href="https://github.com/StevenBlack/hosts" target="_blank">Steven Black.</a>  He creates huge HOSTS files, ranging from 57,294 to 82,879 unique domains, and splits them into 15 variations to focus on your particular need.  Find a curated list of sites, add them to your HOSTS files and then add your specific sites disruptive to your productivity and you've created a system to protect yourself.  You've denied the battle and by default won.  It's not perfect, as you can always go in and unblock it.  But it's a way forward.</p>
 
-<p>Now that we know how to edit the HOSTS file manually, I can let you in on a program I found.  Another gentleman named <a rel="noreferrer noopener" href="https://github.com/scottlerch/HostsFileEditor" target="_blank">Scott Lerch</a> created a program that makes editing the HOSTS file really easy.  It's called Hosts File Editor and it's hosted on his github page. </p>
+<p>Now that we know how to edit the HOSTS file manually, I can let you in on a program I found.  Another gentleman named <a href="https://github.com/scottlerch/HostsFileEditor" target="_blank">Scott Lerch</a> created a program that makes editing the HOSTS file really easy.  It's called Hosts File Editor and it's hosted on his github page. </p>
 
 <p><em>What the heck, K3ntucky, you made me read all that mess before you talking about the program that handles all that nerd crap?</em></p>
 
@@ -51,7 +51,7 @@ categories: [ADHD, ADHD Systems, Blocking websites, Computers, Customizing, Dist
 
 <p>For Windows, run notepad as administrator and open <strong>C:\Windows\System32\drivers\etc\hosts</strong> and put '0.0.0.0 website.com' and '0.0.0.0 www.website.com'.</p>
 
-<p><a rel="noreferrer noopener" href="https://github.com/StevenBlack/hosts" target="_blank">Steven Black</a> curates HOSTS lists and splits them into 15 groups so you can find one for your specific propose.</p>
+<p><a href="https://github.com/StevenBlack/hosts" target="_blank">Steven Black</a> curates HOSTS lists and splits them into 15 groups so you can find one for your specific propose.</p>
 
-<p><a rel="noreferrer noopener" href="https://github.com/scottlerch/HostsFileEditor" target="_blank">Scott Lerch's Hosts File Editor</a> program makes editing the HOSTS file easy.</p>
+<p><a href="https://github.com/scottlerch/HostsFileEditor" target="_blank">Scott Lerch's Hosts File Editor</a> program makes editing the HOSTS file easy.</p>
 

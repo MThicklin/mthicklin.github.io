@@ -6,7 +6,7 @@ author: k3ntuckyblog
 comments: true
 categories: [Game Design, Math, Math Quest, MVP, Programming]
 ---
-<!-- wp:paragraph {"align":"center"} -->
+
 <p class="has-text-align-center">-Or-<br>Designing a game without knowing Game Design.</p>
 
 <p>When I first started this blog, I had every intention of documenting a game I was making.  It's not a huge game, more accurately what I have now is more a piece of a game.  I made the game up to a point and life did it's usual thing and the project kind of got put on the back burner.  </p>
@@ -52,8 +52,8 @@ https://www.youtube.com/watch?v=z06QR-tz1_o
 <p>With this MVP plan in place, I can make simple milestones to work toward and allows me a better idea of the progress I'm making.  </p>
 
 <p>With your MVP in place, you make every milestone a little victory that keep you progressing to bigger things and I that is something I hope readers take away from these posts.</p>
-<!-- wp:heading -->
+
 <h2 id="tl-dr">TL;DR</h2>
-<!-- /wp:heading -->
+
 <p>-One part of this blog is about documenting my thoughts while I work on a game called Math Quest.<br> -This video from <a href="https://www.youtube.com/watch?v=z06QR-tz1_o">Extra Credits</a> is a great starting point to people who are literally new to game design.<br> -The Minimum Viable Product is an important concept to consider in design to keep focus and prevent burnout.<br> - Small victories keep us wanting to learn more and small steps over time equal great distances.</p>
 

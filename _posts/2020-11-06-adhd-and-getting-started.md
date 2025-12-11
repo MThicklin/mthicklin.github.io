@@ -6,7 +6,7 @@ author: k3ntuckyblog
 comments: true
 categories: [ADHD, ADHD Systems, Getting Started, Motivation]
 ---
-<!-- wp:paragraph {"align":"center"} -->
+
 <p class="has-text-align-center">-OR-<br>If you start me up<br>If you start me up, I'll never stop<br>- 'Start Me Up' The Rolling Stone</p>
 
 <p>When we are given a task we usually have a process: We plan, get everything ready, and finally execute.  But sometimes we have the intention of starting, only to end up failing.  This behavior is referred to as Executive Dysfunction;  the inability to cognitively process the actions needed for self management.</p>
@@ -15,7 +15,7 @@ categories: [ADHD, ADHD Systems, Getting Started, Motivation]
 
 <p>No matter the reason and despite our best efforts, other things simply take a higher priority for us. Thoughts that persist or things in the future we are dreading can just as easily drain us; leaving us too tired to even attempt to take out the trash or start that report for school.</p>
 
-<p>Dear Reader, I'm going to be frank with you, I can only write about what works for me. Bruce Lee teaches us to "Absorb what is useful, discard what is useless and add what is specifically your own" (<a rel="noreferrer noopener" href="https://k3ntuckydesign.wordpress.com/2020/06/28/adhd-and-systems/(opens in a new tab)" target="_blank">Oh, that sounds familiar</a>). For some, the hard part is getting the starting momentum. I'm not going to sit here and say, "All you have to do is just start the task!" and expect that to get you going. But I have found that, much like trying to quit smoking, it helps if you WANT to start your task. </p>
+<p>Dear Reader, I'm going to be frank with you, I can only write about what works for me. Bruce Lee teaches us to "Absorb what is useful, discard what is useless and add what is specifically your own" (<a href="https://k3ntuckydesign.wordpress.com/2020/06/28/adhd-and-systems/(opens in a new tab)" target="_blank">Oh, that sounds familiar</a>). For some, the hard part is getting the starting momentum. I'm not going to sit here and say, "All you have to do is just start the task!" and expect that to get you going. But I have found that, much like trying to quit smoking, it helps if you WANT to start your task. </p>
 
 <p>"WANT" in this sense isn't "You didn't WANT it bad enough" but simply "I don't WANT to do this task".  When we're drained or have other things on our minds, it's easy to convince ourselves to watch one more episode of something instead of walking the dog.  When we find ourselves not WANTing to clean the house or get ready to head out, but we can bring that internal effort into the real world by setting aside time where we will start our task. </p>
 
@@ -35,7 +35,7 @@ categories: [ADHD, ADHD Systems, Getting Started, Motivation]
 
 <p>Once tasks have been done, we can look back and see the progress we've made.  It doesn't have to be huge, but it's a starting point and we did it.  </p>
 
-<p>-<strong>Putting on some music</strong><br>Having music definitely helps. I have a bit of control over my motivation, but I still need to trick myself into doing mundane tasks like sweeping and cleaning my bedroom.  Having various playlists lets me get lost in the music and I can start knocking stuff out.  I try to make playlists that facilitate a particular mood.  If you need help with some music suggestions, <a rel="noreferrer noopener" href="https://k3ntuckydesign.wordpress.com/music-links/(opens in a new tab)" target="_blank">I know a guy...</a>  </p>
+<p>-<strong>Putting on some music</strong><br>Having music definitely helps. I have a bit of control over my motivation, but I still need to trick myself into doing mundane tasks like sweeping and cleaning my bedroom.  Having various playlists lets me get lost in the music and I can start knocking stuff out.  I try to make playlists that facilitate a particular mood.  If you need help with some music suggestions, <a href="https://k3ntuckydesign.wordpress.com/music-links/(opens in a new tab)" target="_blank">I know a guy...</a>  </p>
 
 <p><strong>-Embrace the suck</strong><br>Sometimes a task is going to suck no matter what, in time like this, I'm reminded of some sage advice I learned in the military: Embrace The Suck. Once you understand and respect that it's going to suck, you can figure out how to minimize the suck. Washing the dishes can be gross (I'm not a germaphobe but the thought of touching other people's food / wet food makes me... UGH), so to minimize having to touch other people's food, I have dish gloves. Doing the dishes still sucks most of the time, but the part of touching other people's food doesn't factor in.</p>
 
