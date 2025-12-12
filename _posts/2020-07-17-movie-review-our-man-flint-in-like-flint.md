@@ -31,7 +31,7 @@ categories: [Campy, Campy Movies, In Like Flint, Movie review, Movies, Our Man F
 
 <p>If you like niche campy movies - Most def.  As for "all over the place" these plots end up being, I highly recommend these.  I'm very much an "MST3K" type and these are great movies to riff on.  They're corny and campy and sexist and wacky all while trying to be serious.  You can tell the film makers wanted to make the first movie with a serious but not too serious tone.  But, by the sequel you can tell they were setting up camp in the 'camp' camp national camp grounds.</p>
 
-<p>K3ntucky finds these to be "Interesting" notes:<br>Originally This movie was on the list as "In like Flynn" (which is a movie about Australian actor Errol Flynn). This was due to me mishearing my family when they talked about this movie.  Then it turned out to be the sequel.</p>
+<p>"Interesting" notes:<br>Originally This movie was on the list as "In like Flynn" (which is a movie about Australian actor Errol Flynn). This was due to me mishearing my family when they talked about this movie.  Then it turned out to be the sequel.</p>
 
 <p>In Like Flint and <em><a href="https://en.wikipedia.org/wiki/Caprice_(1967_film)">Caprice</a></em>, starring Doris Day, were the last movies shot in the CinemaScope format. After these films, The industry moved to used <a href="https://en.wikipedia.org/wiki/Panavision" target="_blank">Panavision</a>.</p>
 

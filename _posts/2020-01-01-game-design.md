@@ -19,9 +19,9 @@ categories: [Game Design, Math, Math Quest, MVP, Programming]
 <!-- wp:paragraph {"align":"center","fontSize":"medium"} -->
 <p class="has-text-align-center has-medium-font-size">Wait, Don't go! Hear me out...</p>
 
-<p>I've always liked the Nintendo DS game "Brain Age", particularly the mini-game where you see how many simple math questions you can get correct. I find it very satisfying just to see how far I can go. Confession: I have never played this <em>once</em>. I always take an extra round to make sure the first one wasn't a fluke then sometimes a third round as a tie-breaker.  </p>
+<p>I've always liked the Nintendo DS game "Brain Age", particularly the mini-game where you see how many simple math questions you can get correct within the time limit. I find it very satisfying just to see how far I can go. Confession: I have never play this game just <em>once</em>. I always take an extra round to make sure the first one wasn't a fluke then sometimes a third round as a tie-breaker.  </p>
 
-<p>If you were to break down the game play loop of this mini game it would look something like this:<br>Start<br>Get problem<br>Solve</p>
+<p>If you were to break down the game play loop of this mini game it would look something like this:<br>Start<br>Get problem<br>Solve<br>reset until either hero or enemy hp is 0</p>
 
 <p>Starting with that as the foundation, I wanted to see if I could expound upon the idea.  Hopefully create something to make math more accessible by gamifying it.</p>
 
