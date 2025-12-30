@@ -14,14 +14,14 @@ categories: [Game Design, Math, Math Quest, MVP, Programming]
 <p>Recently a friend of mine expressed interest in designing a game so I figured I would return to my old first game.  This is a slight repost, but it's new if you missed it the first time.</p>
 
 <p>So... Where to begin?  The title would a good start, I plan to call this game:</p>
-<!-- wp:paragraph {"align":"center","fontSize":"large"} -->
-<p class="has-text-align-center has-large-font-size"><strong>MATH QUEST</strong></p>
-<!-- wp:paragraph {"align":"center","fontSize":"medium"} -->
-<p class="has-text-align-center has-medium-font-size">Wait, Don't go! Hear me out...</p>
 
-<p>I've always liked the Nintendo DS game "Brain Age", particularly the mini-game where you see how many simple math questions you can get correct within the time limit. I find it very satisfying just to see how far I can go. Confession: I have never play this game just <em>once</em>. I always take an extra round to make sure the first one wasn't a fluke then sometimes a third round as a tie-breaker.  </p>
+<p><strong>MATH QUEST</strong></p>
 
-<p>If you were to break down the game play loop of this mini game it would look something like this:<br>Start<br>Get problem<br>Solve<br>reset until either hero or enemy hp is 0</p>
+<p>Wait, Don't go! Hear me out...</p>
+
+<p>I've always liked the Nintendo DS game "Brain Age", particularly the mini-game where you see how many simple math questions you can get correct within the time limit. I find it very satisfying just to see how far I can go. Confession: I can't play this game just <em>once</em>. I usually end up taking a warmup turn, a loosen up turn, elevenies, and an extra round to make sure the last one wasn't a fluke, then (if needed) a final round as a tie-breaker.  </p>
+
+<p>If you were to break down the game play loop of this mini game it would look something like this:<br>Start<br>Get problem<br>Solve<br>reset until either hero or enemy hp is 0.</p>
 
 <p>Starting with that as the foundation, I wanted to see if I could expound upon the idea.  Hopefully create something to make math more accessible by gamifying it.</p>
 
