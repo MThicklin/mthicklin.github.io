@@ -35,7 +35,7 @@ categories: [Game Design, Math, Math Quest, MVP, Programming]
 
 <p>Take a game like Street Fighter:<br>2 characters, moving left and right, hit each other. When one player connects enough hits, they are the winner.</p>
 
-<p><em>But K3ntucky, there's also jumping, blocking, high / med / low kicks and punches, the super moves, all the different characters?  Why didn't these get mentioned?</em>  <em>These are basic parts of a fighting game as well, aren't they?</em></p>
+<p><em>But K3ntucky, there's also jumping, blocking, high / med / low kicks and punches, the super moves, all the different characters?  Why didn't these get mentioned? These are basic parts of a fighting game as well, aren't they?</em></p>
 
 <p>Of course they are, but Street Fighter explained as an MVP is just 2 characters, with limited movement, hitting each other until a winner is declared.  An MVP will leave out many details and mechanics for the sake of making the explanation as simple as possible.  Once you have the MVP working you can to flesh out / expand the overall idea adding all the wild ideas to make your game unique.  <strong>No one is born running, we all crawl before we walk.</strong></p>
 
