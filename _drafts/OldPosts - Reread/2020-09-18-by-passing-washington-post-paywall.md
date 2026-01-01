@@ -15,7 +15,7 @@ categories: [Computers, News Articles, Paywall by-pass, Paywall By-pass, Washing
 
 <p>Until I stumbled on...</p>
 
-<p>I'm going to interrupt myself right here.  Like a recipe blog, I want to say something (read: alot) before we get to the heart of the matter.  If you're in a hurry and you want to read that WP article before it fails like the <a href="https://k3ntuckydesign.wordpress.com/2020/07/31/__trashed/" target="_blank">New York Times</a>, you can zip to Too Long; Didn't Read (TL;DR) section at the bottom.  I won't be insulted, WordPresThe site has already registered that I have another view on this post, so my validation and dopamine is set.</p>
+<p>I'm going to interrupt myself right here.  Like a recipe blog, I want to say something (read: alot) before we get to the heart of the matter.  If you're in a hurry and you want to read that WP article before it fails like the <a href="https://k3ntuckydesign.wordpress.com/2020/07/31/__trashed/" target="_blank">New York Times</a>, you can zip to Too Long; Didn't Read (TL;DR) section at the bottom.  I won't be insulted, The site has already registered that I have another view on this post, so my validation and dopamine is set.</p>
 
 <p>When I write a post about by-passing paywalls, it's not all about putting the screws to the man (Granted, that's a lot of it).  Exactly like I said in my <a href="https://k3ntuckydesign.wordpress.com/2020/07/31/__trashed/" target="_blank">New York Times by-pass</a>: It's in the newspaper's interest to have a limit on how many articles people can just read with out having a subscription. The paper needs to get the writers to make the articles that get people to come in and pay for the service.</p>
 
@@ -28,13 +28,13 @@ categories: [Computers, News Articles, Paywall by-pass, Paywall By-pass, Washing
 <p>To access cached pages, do a google search for something.  What can we search for... OH! <br>How about that interesting article I found earlier?  https://www.washingtonpost.com/local/dc-protest-lafayette-square/2020/09/16/ca0174e4-f788-11ea-89e3-4b9efa36dc64_story.html</p>
 
 <p>Copy and paste that link into a google search.  You should see this:</p>
-<!-- wp:image {"id":1968,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://k3ntuckydesign.files.wordpress.com/2020/09/washingtonpostsearch.png?w=880" alt="" class="wp-image-1968" /></figure>
-<!-- /wp:image -->
+
+<figure><img src="https://k3ntuckydesign.files.wordpress.com/2020/09/washingtonpostsearch.png?w=880" alt="" class="wp-image-1968" /></figure>
+
 <p>Yeah, that's the ticket.  The green arrow is pointing at what we are looking for.  A drop down containing the link to the google cached page for this article.  When you click on it, you should see this:</p>
-<!-- wp:image {"id":1969,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://k3ntuckydesign.files.wordpress.com/2020/09/washingtonpostcached.png?w=804" alt="" class="wp-image-1969" /></figure>
-<!-- /wp:image -->
+
+<figure><img src="https://k3ntuckydesign.files.wordpress.com/2020/09/washingtonpostcached.png?w=804" alt="" class="wp-image-1969" /></figure>
+
 <p>When you click on 'cached', you'll be taken to a google server holding on to the actual page.  Free from the confines of the Bezos paywall.  Where it can run free with other articles that will more than likely make you depressed or angry.</p>
 
 <p>Something to consider, When you normally click on a WP link it will take you to the page, but the link will revert to just "Washingtonpost.com".  To avoid this, right click on the WP link and select 'copy link address'.  THEN go to google, paste the link in the search bar and hit enter.</p>

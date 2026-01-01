@@ -48,6 +48,6 @@ categories: [CSS, Fun Web Projects, HTML, HTML Design, Javascript]
 <h2>What did we learn / TL;DR:</h2>
 
 <p>Fun stuff, right?  Learning how to apply JavaScript arrays and random numbers.  Good times.  </p>
-<!-- wp:list -->
+
 <ul><li><a href="https://codepen.io/melvinhicklin/full/YOpaXp">Codepen.io Example</a></li><li>JS variables can be initialized as an index in an array:<br>     var j = &lt;name of array&gt;[0].</li><li>JS variables can be initialized as a random part of an array:<br>     var job = &lt;name of array&gt;[Math.floor(Math.random()*job.length)]; </li><li>Math.floor() rounds down, Math.ceiling() rounds up.</li><li>Math.random()*&lt;name of array&gt;.length will generate a number between 0 and the size of your array.</li></ul>
-<!-- /wp:list -->
+

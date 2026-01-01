@@ -28,9 +28,9 @@ categories: [Chrome, CSS, Discipline Form, HR Form, HTML, HTML Design, Javascrip
 <p class="has-text-align-center">Of course, feel free to use this form and change it around to fit your purpose.  <br>You can put lipstick on this pig and sent it to the rodeo in your version.  </p>
 
 <p>     Overall, It's a simple form but there are a few things I want to want to point out.  Our current environment uses Chrome as an alternative browser, So a chrome shortcut that would pull up the page directly from a place on our network:<br>"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" file:///&lt;File location&gt;<br>    This gives me the added benefits of native PDF printing along with being able update in the background and users not noticing.<br>Starting at the top we have:</p>
-<!-- wp:list -->
+
 <ul><li>Date and time stamp<ul><li>Simple JavaScript, but I discuss it below.</li></ul></li><li>Drop down menus for the department affected</li><li>Text fields for Associate and Manager names</li><li>Drop down menus for prior and current warnings<ul><li>Selecting Prior auto-fills the current warnings.  Discussed below.</li></ul></li><li>Drop down menu for policy the was violated<ul><li>Fills in an area to show policy  </li></ul></li><li>Button to reset policies<ul><li>I'll discuss that in a bit</li></ul></li><li>Text field to describe how the policy was broken</li><li>Area for the policy selected before is displayed</li><li>Drop down menu for next course of action</li><li>Signature area</li><li>Check and Print button<ul><li>Discussed below </li></ul></li></ul>
-<!-- /wp:list -->
+
 <p>The form is simple but I wanted to draw back the curtain and show some of the mechanics behind it:</p>
 
 <p><strong>Date and Time Stamp</strong><br>A DIV element, ID of 'dateF' short for 'date field', will hold the date:<em><strong>  var d = new Date();</strong></em><br>We take that variable and replace the inner HTML of the DIV element to the string "Date and Time" and concatenate the 'd' variable, here translated into a string with the .toLocaleString method, to the end.<br><strong><em>document.getElementById("dateS").innerHTML = "Date and Time: "+d.toLocaleString();</em></strong></p>

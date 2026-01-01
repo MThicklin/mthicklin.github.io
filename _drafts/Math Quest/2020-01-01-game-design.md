@@ -40,11 +40,11 @@ categories: [Game Design, Math, Math Quest, MVP, Programming]
 <p>Of course they are, but Street Fighter explained as an MVP is just 2 characters, with limited movement, hitting each other until a winner is declared.  An MVP will leave out many details and mechanics for the sake of making the explanation as simple as possible.  Once you have the MVP working you can to flesh out / expand the overall idea adding all the wild ideas to make your game unique.  <strong>No one is born running, we all crawl before we walk.</strong></p>
 
 <p>To get a better idea of what an MVP entails, check out this video from a channel called Extra Credits.  They cover a variety of topics, mainly video games and world history.  This video explains the concept very well and is, so far, the best starting point I've seen when it comes to game design for the absolute beginner:</p>
-<!-- wp:embed {"url":"https://www.youtube.com/watch?v=z06QR-tz1_o","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<blockquote>
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 https://www.youtube.com/watch?v=z06QR-tz1_o
 </div></figure>
-<!-- /wp:embed -->
+
 <p>So the big question…  In the barest-bone explanation, what's the MVP of my game?</p>
 
 <p>The MVP of my game, much like the brain age mini game from earlier, would be answer math problems, until you're declared the winner.  Very basic but it gives us a foundation to create then expound upon.  Of course to make the MVP a reality, we'll need a few components. <br>Play area<br> -Randomly generated problem<br> -Randomly generated possible answers<br><br>Game Logic<br> -Calculate answer to problem<br> -Compare calculated answer against user selected answering<br> -Calculate correct answers (ca) and wrong answers (wa) / store amount of ca and wa<br> -When ca or wa reach a number, declare winner.</p>
