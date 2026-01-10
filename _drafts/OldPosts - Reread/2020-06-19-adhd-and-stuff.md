@@ -7,7 +7,7 @@ comments: true
 categories: [ADHD, impulsive buying, neurodiverse]
 ---
 
-**-OR-How I learned to stop worrying and not impulsively buy stuff.
+**-OR-How I learned to stop worrying and not impulsively buy stuff.**
 
 As I learn more about what ADHD actually is (Turns out it's more then just 'can't pay attention'); I'm given more insight into myself and why my mind processes the way it does.  One aspect I learned to mostly control early on is the tendency to impulsively buy or collect stuff.
 
@@ -15,7 +15,7 @@ We all have that one thing we can convince ourselves to buy.  My weakness has co
 
 No matter, THIS book; This was the ONE.  The one I would hunker down and finish and really take the lessons to heart and change my ways.  I would do good for the first few days, I would get a few pages in everyday.  But soon, something would pull my attention.  A new project pops in my head, I would skip a few days doing other things or maybe the book turns out to be dry or boring.
 
-Psychologically, there is positive effect of buying stuff.  But like most positive things, people (This includes everybody, this isn't just a ADHD exclusive thing; It hits differently for everyone) tend to become more dependent on it and leads us to buying stuff for that dopamine hit. 
+Psychologically, there is positive effect of buying stuff.  But like most positive things, people (This includes everybody, this isn't just a ADHD exclusive thing; It hits differently for everyone) tend to become more dependent on it and leads us to buying stuff for that dopamine hit.
 
 It usually starts with the justification... It could be anything: Starting a project, adding to a collection or just wanting something.  That excitement hits a peak and we make the purchase.  
 
@@ -41,7 +41,7 @@ While we must learn to respect and make peace with our internal thoughts, never 
 
 I think I heard someone in the back, "So what? That's easy for you say, you have self control."  Self control is something we will constantly work on and improve over our lives and our will power alone can only take us so far.  It's easy to fall prey to the seductive positive effects of buying things.  We must find systems that work for us and realize a slip up isn't the end, but a chance to improve the system and, in effect, ourselves.
 
-##TL;DR
+## TL;DR
 
 **Slip ups ARE NOT failures. It's only a failure if you refuse to improve afterwards.**
 
@@ -51,5 +51,4 @@ Try to answer:     Was I happy before I knew of the existence of this item?  Why
 
 Self control and will power are life long battles / projects to work on.  But if the temptation is too great, try to deny yourself the battle and make 'have to buys' into rewards for tasks you need to do.
 
-Everyone is different, you have to look inside and find what works for you.  Maybe it's something in this post, maybe it's a combination of things, maybe it's nothing in this post.  Life, on the individual perspective, is mostly trial and error.
-
+Everyone is different, you have to look inside and find what works for you.  Maybe it's something in this post, maybe it's a combination of things, maybe it's nothing in this post.  Life is mostly trial and error.

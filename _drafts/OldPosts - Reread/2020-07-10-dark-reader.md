@@ -7,7 +7,7 @@ comments: true
 categories: [Dark Mode, Dark Reader, Extension, Extension Review, Extensions, Reviews]
 ---
 
-**-OR-"If Only You Knew The Power Of The Dark Side..." -Darth Vader, Empire Strikes Back
+## -OR- "If Only You Knew The Power Of The Dark Side..." -Darth Vader, Empire Strikes Back
 
 Most of my day, and foreseeable future, consists of staring at a computer screen.  Whether it's work, hobby programming or... um... maybe when you're older (I play a couple of first person shooters that might not be appropriate for the younger audience).  Because of all my screen time, I try whatever I can to ensure I'm not cooking my retinas or causing long term damage to myself.
 

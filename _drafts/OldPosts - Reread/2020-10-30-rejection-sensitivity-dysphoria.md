@@ -53,7 +53,7 @@ When it comes to jokes, I'm getting better at recognizing when something was a l
 
 It's important to note that people tend to remember bad things more clearly then good things because we tend to think life should be good in general. That's not an argument to say optimism is a waste of time, far from it. You don't have to keep a gratitude journal (Unless you want to) but taking some time to remember the good around you helps you get past the bad.  If you feel nothing else is working, or really if you '**<span style="text-decoration:underline;">just want to</span>**', please seek the help of a professional.
 
-##TL; DR
+## TL; DR
 
 If you catch yourself in a negative looping thought pattern, Remember:THIS IS NOT YOUR NEW NORMAL.  YOU CAN and WILL GET THROUGH THIS.
 
