@@ -36,5 +36,5 @@ Movie Riffers - If you like movies made with earnest, but not a lot of thought. 
 
 I originally thought this movie was called "In like Flynn" (which is a movie about Australian actor Errol Flynn). This was due to me mishearing my family when they talked about this movie.  Then it turned out the movie they referenced was the sequel.
 
-In Like Flint and ["https://en.wikipedia.org/wiki/Caprice_(1967_film)">Caprice</a>, starring Doris Day, were the last movies shot in the CinemaScope format. After these films the industry moved on to ["https://en.wikipedia.org/wiki/Panavision" ]Panavision</a>.
+In Like Flint and ["https://en.wikipedia.org/wiki/Caprice_(1967_film)">Caprice</a>, starring Doris Day, were the last movies shot in the CinemaScope format. After these films the industry moved on to ["https://en.wikipedia.org/wiki/Panavision ]Panavision</a>.
 

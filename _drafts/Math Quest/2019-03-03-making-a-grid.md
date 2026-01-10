@@ -40,5 +40,5 @@ Overall, both methods are perfectly fine and serve their purposes.  So how do we
 
 <h3>TL:DR;</h3>
 
-We have 2 ways to make a grid:  -Using CSS Grid and JavaScript  -Nested LoopLinks to examples:<a rel="noopener noreferrer" href="https://codepen.io/melvinhicklin/details/a4356e7eb117fce95bb721bdee6db9f0" ]CodePen.io</a> / <a rel="noopener noreferrer" target="_blank" href="https://code.sololearn.com/WqGfEhUZfHct/#html">SoloLearn</a>
+We have 2 ways to make a grid:  -Using CSS Grid and JavaScript  -Nested LoopLinks to examples:<a rel="noopener noreferrer" href="https://codepen.io/melvinhicklin/details/a4356e7eb117fce95bb721bdee6db9f0 ]CodePen.io</a> / <a rel="noopener noreferrer" target="_blank" href="https://code.sololearn.com/WqGfEhUZfHct/#html">SoloLearn</a>
 

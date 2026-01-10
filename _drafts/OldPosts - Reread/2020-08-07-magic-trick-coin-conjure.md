@@ -9,7 +9,7 @@ categories: [Coin, Coin magic, Magic, Magic Tricks, Sleight of Hand]
 
 **-OR-"Not tricks, Michael, illusions. A trick is something a wh***does for money...." -G.O.B Arrested Development
 
-Sleight of hand has always been fascinating to me.  Especially sleight of hand where the only cost is the time spent practicing (AKA free).  ["https://k3ntuckydesign.wordpress.com/2020/07/25/magic-trick-back-palm-vanish/" ]Last post about magic,</a> I presented a fast and snappy trick.  This one, in my experience, is better when it's a little slower and deliberate.  
+Sleight of hand has always been fascinating to me.  Especially sleight of hand where the only cost is the time spent practicing (AKA free).  ["https://k3ntuckydesign.wordpress.com/2020/07/25/magic-trick-back-palm-vanish/ ]Last post about magic,</a> I presented a fast and snappy trick.  This one, in my experience, is better when it's a little slower and deliberate.  
 
 I typically use gold dollar coins or quarters for this trick, but solidified the basics of this move with half dollars.  Depending on the size and flexibility of your hand, you may need to try out different sized coins to see which you like best.
 

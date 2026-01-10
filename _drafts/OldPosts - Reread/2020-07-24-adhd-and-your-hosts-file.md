@@ -37,9 +37,9 @@ Note: Sometimes adding '0.0.0.0 website.com' doesn't block the web page because 
 
 *But K3ntucky, do you know how many websites there are? Hundreds, literally hundreds! How can I block them all?*
 
-A lot of smart people on the internet have taken the time to curate HOSTS lists for others to use.  I personally like the list made by a gentleman named ["https://github.com/StevenBlack/hosts" ]Steven Black.</a>  He creates huge HOSTS files, ranging from 57,294 to 82,879 unique domains, and splits them into 15 variations to focus on your particular need.  Find a curated list of sites, add them to your HOSTS files and then add your specific sites disruptive to your productivity and you've created a system to protect yourself.  You've denied the battle and by default won.  It's not perfect, as you can always go in and unblock it.  But it's a way forward.
+A lot of smart people on the internet have taken the time to curate HOSTS lists for others to use.  I personally like the list made by a gentleman named ["https://github.com/StevenBlack/hosts ]Steven Black.</a>  He creates huge HOSTS files, ranging from 57,294 to 82,879 unique domains, and splits them into 15 variations to focus on your particular need.  Find a curated list of sites, add them to your HOSTS files and then add your specific sites disruptive to your productivity and you've created a system to protect yourself.  You've denied the battle and by default won.  It's not perfect, as you can always go in and unblock it.  But it's a way forward.
 
-Now that we know how to edit the HOSTS file manually, I can let you in on a program I found.  Another gentleman named ["https://github.com/scottlerch/HostsFileEditor" ]Scott Lerch</a> created a program that makes editing the HOSTS file really easy.  It's called Hosts File Editor and it's hosted on his github page. 
+Now that we know how to edit the HOSTS file manually, I can let you in on a program I found.  Another gentleman named ["https://github.com/scottlerch/HostsFileEditor ]Scott Lerch</a> created a program that makes editing the HOSTS file really easy.  It's called Hosts File Editor and it's hosted on his github page. 
 
 *What the heck, K3ntucky, you made me read all that mess before you talking about the program that handles all that nerd crap?*
 
@@ -51,5 +51,5 @@ TL;DR
 >If distracted websurfing is too much of a temptation, deny it battle by blocking the website at the computer level by adding it to your HOSTS file.
 >You can also use your HOSTS file to block known ad networks and malicious domains to add an extra layer to your computer security posture.
 >For Windows, run notepad as administrator and open `C:\Windows\System32\drivers\etc\hosts` and put '0.0.0.0 website.com' and '0.0.0.0 www.website.com'.
->["https://github.com/StevenBlack/hosts" ]Steven Black</a> curates HOSTS lists and splits them into 15 groups so you can find one for your specific propose.
->["https://github.com/scottlerch/HostsFileEditor" ]Scott Lerch's Hosts File Editor</a> program makes editing the HOSTS file easy.
+>["https://github.com/StevenBlack/hosts ]Steven Black</a> curates HOSTS lists and splits them into 15 groups so you can find one for your specific propose.
+>["https://github.com/scottlerch/HostsFileEditor ]Scott Lerch's Hosts File Editor</a> program makes editing the HOSTS file easy.

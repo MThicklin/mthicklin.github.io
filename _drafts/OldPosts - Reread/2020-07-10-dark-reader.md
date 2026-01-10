@@ -20,24 +20,18 @@ The usual theme is fine if your eyes have adjusted to daylight.  But, If you're 
 But many websites don't have the option of a dark mode...
 
 <div style="grid-template-columns:28% auto;"><figure class="wp-block-media-text__media"><img src="https://k3ntuckydesign.files.wordpress.com/2020/07/dark-reader-menu-2.png?w=260" alt="" class="wp-image-1279" /><div class="wp-block-media-text__content">
-<p class="has-large-font-size">So, Thank goodness for plugins! Specifically, <aorg/" ]Dark Reader</a> by ["https://github.com/darkreader/darkreader/commits?author=alexanderby">alexanderby</a>. An excellent extension that handles the task of inverting the standard white background and black text theme on web pages.
+<p class="has-large-font-size">So, Thank goodness for plugins! Specifically, Dark Reader by [https://github.com/darkreader/darkreader/commits?author=alexanderby]alexanderby</a>. An excellent extension that handles the task of inverting the standard white background and black text theme on web pages.
 </div></div>
 
-
-
-<div><div>
-<div><figure class="aligncenter size-large"><img src="https://k3ntuckydesign.files.wordpress.com/2020/07/dark-reader-more-menu-1.png?w=253" alt="" /></div>
+<figure class="aligncenter size-large"><img src="https://k3ntuckydesign.files.wordpress.com/2020/07/dark-reader-more-menu-1.png?w=253" alt="" /></div>
 
 I rate Dark Reader as "Almost fire and forget". The 'almost' is because you may run into the occasional website that gets rendered oddly. To fix this, Dark Reader has a couple of tricks up it's sleeve ranging from easy (Other engines to generate website themes, see above) to a bit more technical (Ability to identify elements and change them manually).
-</div></div>
+
 
 Dark Reader is available for Chrome, Firefox, Safari and Edge (I mean the new version of Edge, Don't worry if you don't know which one you have, Windows 10 will let you freaking know!)
 
 TL;DR
-
-Dark reader inverts website colors to make them easier to easier.
-
-It's robust enough to invert most websites correctly.  
-
-The occasional page may be rendered incorrectly but dark reader has a couple of corrective measures ranging from easy to pretty technical to keep you covered.
+>Dark reader inverts website colors to make them easier to easier.
+>It's robust enough to invert most websites correctly.  
+>The occasional page may be rendered incorrectly but dark reader has a couple of corrective measures ranging from easy to pretty technical to keep you covered.
 

@@ -17,7 +17,7 @@ Yeah, it's real cute to make fun of popular stuff. Like "We get it, you're SO ab
 
 I want to dive into a couple of songs that I have come across in my travels and maybe help others find a new song they might like.
 
-## ["https://www.youtube.com/watch?v=H-wm0EdoeN8" ]Elevator Operator
+## ["https://www.youtube.com/watch?v=H-wm0EdoeN8 ]Elevator Operator
 
 **Artist(s): Courtney Barnett / Punk Rock /  Australian**
 Songs that tell a story in a unique way is an automatic fast track to the like list.  Elevator Operator is a great example of this.  Australian musician Courtney Barnett tells the story of a gentleman fed up with his job and life in general.  He decides to venture to the top of a tall building to view the city and meets a lady on the way up who thinks he going to jump.  Courtney Barnett's great deadpan, spoken-word style plays beautifully with her witty lyrics.  In the video, it's structured in a way that it didn't have choruses.  However, when the song is played on Spotify, it has a chorus; but only at the end.
