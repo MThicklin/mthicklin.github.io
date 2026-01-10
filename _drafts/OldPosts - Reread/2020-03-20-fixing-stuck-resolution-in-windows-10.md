@@ -7,7 +7,7 @@ comments: true
 categories: [Computers, IT, Refurbished Computer, Stuck Resolution, Troubleshooting, Windows 10]
 ---
 
-<p class="has-text-align-center">-OR-I just bought this thing and it's already acting up?! UGH!
+**-OR-I just bought this thing and it's already acting up?! UGH!
 
 I frequently get refurbished computers from Recircuit, a storefront on Amazon.  They offer good computers at excellent prices but occasionally the onboard Intel Graphics connection gets stuck displaying only one resolution, usually 1366x768.  No idea why; it just gets stuck.
 

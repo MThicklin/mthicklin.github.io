@@ -7,7 +7,7 @@ comments: true
 categories: [ADHD, impulsive buying, neurodiverse]
 ---
 
-<p class="has-text-align-center">-OR-How I learned to stop worrying and not impulsively buy stuff.
+**-OR-How I learned to stop worrying and not impulsively buy stuff.
 
 As I learn more about what ADHD actually is (Turns out it's more then just 'can't pay attention'); I'm given more insight into myself and why my mind processes the way it does.  One aspect I learned to mostly control early on is the tendency to impulsively buy or collect stuff.
 
@@ -43,7 +43,7 @@ I think I heard someone in the back, "So what? That's easy for you say, you have
 
 ##TL;DR
 
-<strong>Slip ups ARE NOT failures. It's only a failure if you refuse to improve afterwards.</strong>
+**Slip ups ARE NOT failures. It's only a failure if you refuse to improve afterwards.**
 
 Replace "I have to have this" style of thinking with:     Do I really need this, right now?     What is a replacement for this?     Is this really missing in my life?
 

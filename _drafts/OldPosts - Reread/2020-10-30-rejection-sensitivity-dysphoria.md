@@ -7,9 +7,9 @@ comments: true
 categories: [ADHD, Coping, Rejection Sensitivity Dysphoria, RSD]
 ---
 
-<p class="has-text-align-center">-OR- I'm one step closer to the edge and I'm about to break...
+**-OR- I'm one step closer to the edge and I'm about to break...**
 
-First off I want to mention <a href="https://adhd-alien.tumblr.com/post/186401249579/my-intense-emotions-make-it-hard-to-be-myself" target="_blank">ADHD-Alien</a>, where this weeks picture came from.  She is an artist that makes comics about her experiences with ADHD.  They are cute but their subject matter can shed new light on ADHD.  Her comic about how ADHD can mask itself as depression is what got me to discover the ADHD community.
+First off I want to mention ["https://adhd-alien.tumblr.com/post/186401249579/my-intense-emotions-make-it-hard-to-be-myself" ]ADHD-Alien</a>, where this weeks picture came from.  She is an artist that makes comics about her experiences with ADHD.  They are cute but their subject matter can shed new light on ADHD.  Her comic about how ADHD can mask itself as depression is what got me to discover the ADHD community.
 
 Ever have a good day crumble because a friend or family member said a thing in just the right tone?  This comment, at any other time, would have been completely normal;  but for some reason, it was the right words with the right tone and it cut right to the core?  Maybe your significant other said YOU need to do the dishes, after they've done them 3 nights in a row.  Maybe a co-worker said YOU missed this minor step and it resulted in more work for them.  You try to let it go, but you keep thinking...
 
@@ -17,15 +17,15 @@ Ever have a good day crumble because a friend or family member said a thing in j
 
 Suddenly the thoughts wouldn't stop.  It loops in your head like a microphone next to a speaker, feeding back into itself.  It's sticking and echoing, drowning everything else out.  People make mistakes, you didn't mean to make more work for everyone.  You know how important this stuff is.  
 
-You can't even remember missing these things.  You just got in a hurry, you were focused on other things and you just missed the dishes, you just missed that step.  You were going to do to them...  They make mistakes too. You let those slide without getting on their case, making them feel stupid.  But, of course, YOUR mistakes caused the world to end. 
+You can't even remember missing these things.  You just got in a hurry, you were focused on other things and you just missed the dishes, you just missed that step.  You were going to do to them...  They make mistakes too. You let those slide without getting on their case, making them feel stupid.  But, of course, YOUR mistakes caused the world to end.
 
 It's not just what they said, it's also the way they said it...  That condescending tone they used.   No, you CAN'T relax.  No, you're NOT making a big deal out of nothing.  It hurt, why can't they see that? Why is it OK to hurt you?! This looping thought pattern consumes everything.  This is it, isn't it?  The new normal for you.  Everyone thinks you're lazy and stupid now; And it makes you angry and sad, until it finally just... 
 
 Stops.
 
-When I diagnosed with ADD as a kid, my treatment was take Ritalin and work on focusing.  During this time (Early to mid 90s), ADD was just thought to be more of a 'kid can't focus' condition.  Not much was known about the emotional aspect of  it.  Of course, there's every chance that I was told about the emotional ramifications but due to "lack of focus" and "being a kid", I probably zoned out.  This, in turn, made me feel less in control and more prone to act out.
+When I diagnosed with ADD as a kid, my treatment was take Ritalin and work on focusing.  During this time (Early to mid 90s), ADD was just thought to be more of a 'kid can't focus' condition.  Not much was known about the emotional aspect of it.  Of course, there's every chance that I was told about the emotional ramifications but due to "lack of focus" and "being a kid", I probably zoned out.  This, in turn, made me feel less in control and more prone to act out.
 
-As I "matured", I noticed I had a habit of reading too deep into what people said or just couldn't let stuff go.  If something felt wrong about what they said or how they said it, it put me in a bad mood that I would dwell on.  I felt something else had to be going on and, in a sense, I was right.  <a href="https://lmgtfy.app/?q=Rejection+Sensitivity+Dysphoria" target="_blank">Rejection Sensitivity Dysphoria</a> (RSD) is an extra factor in the background that steers me in that direction.  While RSD is acknowledged, it's not recognized as a disorder by the <a href="https://www.psychiatry.org/psychiatrists/practice/dsm" target="_blank">DSM-V</a>. There isn't really a diagnosis guide for it, but that doesn't lessen the effects one can feel from it.
+As I "matured", I noticed I had a habit of reading too deep into what people said or just couldn't let stuff go.  If something felt wrong about what they said or how they said it, it put me in a bad mood that I would dwell on.  I felt something else had to be going on and, in a sense, I was right.  ["https://lmgtfy.app/?q=Rejection+Sensitivity+Dysphoria" ]Rejection Sensitivity Dysphoria</a> (RSD) is an extra factor in the background that steers me in that direction.  While RSD is acknowledged, it's not recognized as a disorder by the ["https://www.psychiatry.org/psychiatrists/practice/dsm" ]DSM-V</a>. There isn't really a diagnosis guide for it, but that doesn't lessen the effects one can feel from it.
 
 RSD is characterized by having a sudden overt sensitivity to criticism and situations where the person may think they could get hurt emotionally.  This can cause person to feel like they act different around others or just avoid the situations all to together.
 
@@ -33,7 +33,7 @@ Sounds like a case of thin skin, K3ntucky.
 
 Yeah, people can say it sounds like that, but for some it can feel like a weight hanging just over head.  A weight that could fall at anytime, causing the person to lash out around loved ones and people in general, lest that weight fall and crush them.
 
-The old saying goes <strong>If</strong> <strong>you can name it, you can tame it</strong>.  Taming it is easier said than done and it will always be hiding in the background waiting.  But now that we know it's name, we can make a system to control it.
+The old saying goes **If****you can name it, you can tame it**.  Taming it is easier said than done and it will always be hiding in the background waiting.  But now that we know it's name, we can make a system to control it.
 
 When we get into a negative thought loop, it can seem like this is how we will feel from now on. It's important to remember that this isn't a new normal for us. This is a temporary state of mind and we can move past it once we develop a system to recognize the triggers and break the loop.
 
@@ -51,7 +51,7 @@ Of course, if you can't realign mentally, doing something physical can help.  Ob
 
 When it comes to jokes, I'm getting better at recognizing when something was a little too spicy for me.  Now I have a system to make sure RSD is under control.  It took time to develop the system, but it's time well spent.
 
-It's important to note that people tend to remember bad things more clearly then good things because we tend to think life should be good in general. That's not an argument to say optimism is a waste of time, far from it. You don't have to keep a gratitude journal (Unless you want to) but taking some time to remember the good around you helps you get past the bad.  If you feel nothing else is working, or really if you '<strong><span style="text-decoration:underline;">just want to</span></strong>', please seek the help of a professional.
+It's important to note that people tend to remember bad things more clearly then good things because we tend to think life should be good in general. That's not an argument to say optimism is a waste of time, far from it. You don't have to keep a gratitude journal (Unless you want to) but taking some time to remember the good around you helps you get past the bad.  If you feel nothing else is working, or really if you '**<span style="text-decoration:underline;">just want to</span>**', please seek the help of a professional.
 
 ##TL; DR
 

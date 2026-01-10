@@ -7,7 +7,7 @@ comments: true
 categories: [Magic, Magic Tricks, Party Tricks, Sleight of Hand]
 ---
 
-<p class="has-text-align-center">-OR-For my next trick, watch your respect for me and my self esteem... Disappear! 
+**-OR-For my next trick, watch your respect for me and my self esteem... Disappear! 
 
 I believe everyone should have a magic trick or two up their sleeve (Ba-dum-tish).  Nothing fancy.  Nothing they have to buy, have a hidden partner to help with, or require a lot of set up time.  Just a couple of sleight of hand tricks to pull out when the opportunity presents itself.
 
@@ -15,11 +15,11 @@ One of my favorites is the 'Back Palm Vanish' (BPV).  It's simple, requires next
 
 To start, take your item (a card or folded dollar), place the bottom edge on the back of your fingers.  Using your forefinger and pinkie, grip the 2 bottom corners (Picture 1).  When your hand is open, you're in the hidden position (Picture 2). When you close your hand, you're in the reveal position (Picture 3).  Be sure to note the corners between your fingers.  This is a quick, snappy trick so there is some leeway to having some corners poking out as your hand will be the main focus.  
 
-<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://k3ntuckydesign.files.wordpress.com/2020/07/bpv-dollar-open-hand-back-3.jpg?w=768" alt="" data-id="1507" data-link="https://k3ntuckydesign.wordpress.com/bpv-dollar-open-hand-back-3/" class="wp-image-1507" /></figure></li><li class="blocks-gallery-item"><figure><img src="https://k3ntuckydesign.files.wordpress.com/2020/07/bpv-dollar-open-hand-front-2.jpg?w=1024" alt="" data-id="1508" data-link="https://k3ntuckydesign.wordpress.com/bpv-dollar-open-hand-front-2/" class="wp-image-1508" /></figure></li><li class="blocks-gallery-item"><figure><img src="https://k3ntuckydesign.files.wordpress.com/2020/07/bpv-dollar-closed-hand-2.jpg?w=1024" alt="" data-id="1509" data-link="https://k3ntuckydesign.wordpress.com/bpv-dollar-closed-hand-2/" class="wp-image-1509" /></figure></li></ul><figcaption class="blocks-gallery-caption">Picture 1) Holding the dollar by the forefinger and pinkiePicture 2) Audience View, hidden position, be sure to take note of the corners between your fingers.Picture 3) reveal position, closing the hand reveals your item.</figcaption></figure>
+<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><img src="https://k3ntuckydesign.files.wordpress.com/2020/07/bpv-dollar-open-hand-back-3.jpg?w=768" alt="" data-id="1507" data-link="https://k3ntuckydesign.wordpress.com/bpv-dollar-open-hand-back-3/" class="wp-image-1507" /></li><li class="blocks-gallery-item"><img src="https://k3ntuckydesign.files.wordpress.com/2020/07/bpv-dollar-open-hand-front-2.jpg?w=1024" alt="" data-id="1508" data-link="https://k3ntuckydesign.wordpress.com/bpv-dollar-open-hand-front-2/" class="wp-image-1508" /></li><li class="blocks-gallery-item"><img src="https://k3ntuckydesign.files.wordpress.com/2020/07/bpv-dollar-closed-hand-2.jpg?w=1024" alt="" data-id="1509" data-link="https://k3ntuckydesign.wordpress.com/bpv-dollar-closed-hand-2/" class="wp-image-1509" /></li></ul><figcaption class="blocks-gallery-caption">Picture 1) Holding the dollar by the forefinger and pinkiePicture 2) Audience View, hidden position, be sure to take note of the corners between your fingers.Picture 3) reveal position, closing the hand reveals your item.</figcaption>
 
   Hold your hand up, palm facing your audience and with a quick snapping motion, close your hand to reveal your item.
 
-<figure><img src="https://k3ntuckydesign.files.wordpress.com/2020/07/bpv-in-action.gif?w=576" alt="" class="wp-image-1500" width="278" height="494" /><figcaption><strong>Witch! Burn him at the stake!!</strong></figcaption></figure>
+<img src="https://k3ntuckydesign.files.wordpress.com/2020/07/bpv-in-action.gif?w=576" alt="" class="wp-image-1500" width="278" height="494" /><figcaption>**Witch! Burn him at the stake!!**</figcaption>
 
 This is important, KEEP YOUR HAND RELAXED. Your instinct maybe to tighten your grip on the item.  When you're closing your hand, this causes the item to move and shift out of your grip.
 

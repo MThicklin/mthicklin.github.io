@@ -7,7 +7,7 @@ comments: true
 categories: [Game Design, Math, Math Quest, MVP, Programming]
 ---
 
-<p class="has-text-align-center">-Or-Designing a game without knowing Game Design.
+**-Or-Designing a game without knowing Game Design.
 
 When I first started this blog, I had every intention of documenting a game I was making.  It's not a huge game, more accurately what I have now is more a piece of a game.  I made the game up to a point and life did it's usual thing and the project kind of got put on the back burner.  
 
@@ -15,7 +15,7 @@ Recently a friend of mine expressed interest in designing a game so I figured I 
 
 So... Where to begin?  The title would a good start, I plan to call this game:
 
-<strong>MATH QUEST</strong>
+**MATH QUEST**
 
 Wait, Don't go! Hear me out...
 
@@ -37,13 +37,13 @@ Take a game like Street Fighter:2 characters, moving left and right, hit each ot
 
 But K3ntucky, there's also jumping, blocking, high / med / low kicks and punches, the super moves, all the different characters?  Why didn't these get mentioned? These are basic parts of a fighting game as well, aren't they?
 
-Of course they are, but Street Fighter explained as an MVP is just 2 characters, with limited movement, hitting each other until a winner is declared.  An MVP will leave out many details and mechanics for the sake of making the explanation as simple as possible.  Once you have the MVP working you can to flesh out / expand the overall idea adding all the wild ideas to make your game unique.  <strong>No one is born running, we all crawl before we walk.</strong>
+Of course they are, but Street Fighter explained as an MVP is just 2 characters, with limited movement, hitting each other until a winner is declared.  An MVP will leave out many details and mechanics for the sake of making the explanation as simple as possible.  Once you have the MVP working you can to flesh out / expand the overall idea adding all the wild ideas to make your game unique.  **No one is born running, we all crawl before we walk.**
 
 To get a better idea of what an MVP entails, check out this video from a channel called Extra Credits.  They cover a variety of topics, mainly video games and world history.  This video explains the concept very well and is, so far, the best starting point I've seen when it comes to game design for the absolute beginner:
-<blockquote>
+>
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 https://www.youtube.com/watch?v=z06QR-tz1_o
-</div></figure>
+</div>
 
 So the big question…  In the barest-bone explanation, what's the MVP of my game?
 
@@ -55,5 +55,5 @@ With your MVP in place, you make every milestone a little victory that keep you 
 
 <h2 id="tl-dr">TL;DR
 
--One part of this blog is about documenting my thoughts while I work on a game called Math Quest. -This video from <a href="https://www.youtube.com/watch?v=z06QR-tz1_o">Extra Credits</a> is a great starting point to people who are literally new to game design. -The Minimum Viable Product is an important concept to consider in design to keep focus and prevent burnout. - Small victories keep us wanting to learn more and small steps over time equal great distances.
+-One part of this blog is about documenting my thoughts while I work on a game called Math Quest. -This video from ["https://www.youtube.com/watch?v=z06QR-tz1_o">Extra Credits</a> is a great starting point to people who are literally new to game design. -The Minimum Viable Product is an important concept to consider in design to keep focus and prevent burnout. - Small victories keep us wanting to learn more and small steps over time equal great distances.
 
