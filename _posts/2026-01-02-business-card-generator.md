@@ -23,7 +23,7 @@ Div setup:Focus|Main - subName  - Job
 
 ## The CSS
 
-Nothing really fancy with the CSS for this project.  But I want to mention the use of z-index, which indicates where a div is in a stack of divs.  The higher the number, the higher on the stack your element will be. The top div "Focus" with a z-index of 3 and the divs "name" and "job" have z-indexs 1 and 2, respectively.  (Originally I had the Focus element as 0, with Name and Job as -1 and -2, but this ended up causing issues.)  Divs "name" and  "job" then get rotated ('transform: rotate(10deg)' & 'transform:  rotate(-10deg)') to give the impression, I hope, of cards poking out out  of the stack.  I think it worked out pretty well.
+Nothing really fancy with the CSS for this project.  But I want to mention the use of z-index, which indicates where a div is in a stack of divs.  The higher the number, the higher on the stack your element will be. The top div "Focus" with a z-index of 3 and the divs "name" and "job" have z-indexs 1 and 2, respectively.  (Originally I had the Focus element as 0, with Name and Job as -1 and -2, but this ended up causing issues as the name and job elements were under the focus element but on some browsers they were considered covered.)  Divs "name" and  "job" then get rotated ('transform: rotate(10deg)' & 'transform:  rotate(-10deg)') to give the impression, I hope, of cards poking out out  of the stack.  I think it worked out pretty well.
 
 >focus {border: 5px solid black;   z-index: 3;}
 >name {transform: rotate(10deg);   text-align: left;   z-index: 1;}
