@@ -17,15 +17,17 @@ With this in mind, I got the idea for a project: The Business Card Generator (BC
 
 ## The HTML
 
-The BCG interface is meant to look like a pile of cards.  The 'focus' div contains 2 divs ('main' and 'sub').  These will display a name (main) and job title (sub).  2 additional divs ('name' and 'job') in the back will act as event handlers to generate a new name or job.
+The BCG interface is meant to look like a pile of cards.  The 'focus' div contains 2 divs: 'main' to display the name and 'sub' to display the job. 2 additional divs ('name' and 'job') in the back will act as event handlers to generate a new name or job.
 
 Div setup:Focus|Main - subName  - Job
 
 ## The CSS
 
-Nothing really fancy with the CSS for this project.  But I want to mention the use of z-index, which indicates where a div is in a stack of divs.  The higher the number, the higher on the stack your element will be. The top div "Focus" with a z-index of 3 and the divs "name" and "job" have z-indexs 1 and 2, respectively.  (Originally I had the Focus element as 0, with Name and Job as -1 and -2, but this ended up causing issues.)  Divs "name" and  "job" then get rotated ('transform: rotate(10deg)' & 'transform:  rotate(-10deg)') to give the impression, I hope, of cards poking out out  of the stack.  I think it worked out pretty well.
+Nothing really fancy with the CSS for this project.  But I want to mention the use of z-index, which indicates where a div is in a stack of divs.  The higher the number, the higher on the stack your element will be. The top div "Focus" with a z-index of 3 and the divs "name" and "job" have z-indexs 1 and 2, respectively.  (Originally I had the Focus element as 0, with Name and Job as -1 and -2, but this ended up causing issues as the name and job elements were under the focus element but on some browsers they were considered covered.)  Divs "name" and  "job" then get rotated ('transform: rotate(10deg)' & 'transform:  rotate(-10deg)') to give the impression, I hope, of cards poking out out  of the stack.  I think it worked out pretty well.
 
-focus {   border: 5px solid black;   z-index: 0; //z-index stacks the divs on top of each other. The higher the number, the higher on the stack you go."Focus" has a z-index of 0 is it will be on top.}name {transform: rotate(10deg);   text-align: left;   z-index: -1; //This div is below "Focus" and above "job" }job {transform: rotate(-10deg);   text-align: right;   z-index: -2;/*This div is below 'name'.*/}
+>focus {border: 5px solid black;   z-index: 3;}
+>name {transform: rotate(10deg);   text-align: left;   z-index: 1;}
+>job {transform: rotate(-10deg);   text-align: right;   z-index: 2;}
 
 ## The JavaScript
 
@@ -43,7 +45,19 @@ The ranJob function initializes 'j' as a random index of the job array.  .innerH
 
 The ranName function starts by creating fName and lName as random indexes of the 'fi' and 'la' arrays. (First Name & Last Name, respectively).  The variable fullName concatenates fName, a space and lName.  With .innerHTML clearing out the 'main' div and placing the contents of fullname in it.
 
-All together we have:document.getElementById("name").addEventListener("click", ranName);document.getElementById("job").addEventListener("click", ranJob);var fi = ["John", "Sam", "Donny", "Greg", "Derrick", "Chris", "Todd", "Frank", "Boxy"];var la = ["Smith", "Tibbs", "Nackle", "Odom", "Seitz", "Goldman", "Doodle", "Brown"];var job = ["Plumber","Whale Scrubber","Pianist","Generally Good Person","Has more money in his pocket then you","Duke of New York"];function ranName() {"use strict";//First and last names are generated here…var fName = fi[Math.floor(Math.random() *fi.length)];var lName = la[Math.floor(Math.random()* la.length)];//and concatinated here.let fullName = fName + " " + lName;//and inserted into the HTML here.document.getElementById("main").innerHTML = fullName;}function ranJob() {"use strict";//The jobs are generated here.var j = job[Math.floor(Math.random() * job.length)];//and inserted into the HTML here.document.getElementById("sub").innerHTML = j;}
+All together we have:
+>document.getElementById("name").addEventListener("click", ranName);
+>document.getElementById("job").addEventListener("click", ranJob);
+>var fi = ["John", "Sam", "Donny", "Greg", "Derrick", "Chris", "Todd", "Frank", "Boxy"];
+>var la = ["Smith", "Tibbs", "Nackle", "Odom", "Seitz", "Goldman", "Doodle", "Brown"];
+>var job = ["Plumber","Whale Scrubber","Pianist","Generally Good Person","Has more money in his pocket then you","Duke of New York"];
+>function ranName() {"use strict";//First and last names are generated here…
+>var fName = fi[Math.floor(Math.random() *fi.length)];
+>var lName = la[Math.floor(Math.random()* la.length)];//and concatinated here.
+>let fullName = fName + " " + lName;//and inserted into the HTML here.
+>document.getElementById("main").innerHTML = fullName;}function ranJob() {"use strict";//The jobs are generated here.
+>var j = job[Math.floor(Math.random() * job.length)];//and inserted into the HTML here.
+>document.getElementById("sub").innerHTML = j;}
 
 ## What did we learn / TL;DR
 

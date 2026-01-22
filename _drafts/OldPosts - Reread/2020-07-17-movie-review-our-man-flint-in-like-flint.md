@@ -6,7 +6,7 @@ author: k3ntuckyblog
 categories: [Campy, Campy Movies, In Like Flint, Movie review, Movies, Our Man Flint, Reviews, Spy Movies]
 ---
 
-<p class="has-text-align-center">-OR-One of America's answers to James Bond was pretty goofy.
+**-OR-One of America's answers to James Bond was pretty goofy.
 
 Note: In an effort to watch movies we've always 'been meaning to watch'; my wife and I compiled a list of 20 movies (10 each from each of us) and we have Google choose a random number to decide the movie.  Sometimes good, a lot of times bad; we've made pretty good progress so far.
 
@@ -36,5 +36,5 @@ Movie Riffers - If you like movies made with earnest, but not a lot of thought. 
 
 I originally thought this movie was called "In like Flynn" (which is a movie about Australian actor Errol Flynn). This was due to me mishearing my family when they talked about this movie.  Then it turned out the movie they referenced was the sequel.
 
-In Like Flint and <a href="https://en.wikipedia.org/wiki/Caprice_(1967_film)">Caprice</a>, starring Doris Day, were the last movies shot in the CinemaScope format. After these films the industry moved on to <a href="https://en.wikipedia.org/wiki/Panavision" target="_blank">Panavision</a>.
+In Like Flint and ["https://en.wikipedia.org/wiki/Caprice_(1967_film)">Caprice</a>, starring Doris Day, were the last movies shot in the CinemaScope format. After these films the industry moved on to ["https://en.wikipedia.org/wiki/Panavision ]Panavision</a>.
 
