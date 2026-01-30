@@ -29,10 +29,13 @@ With the Sgt swiftly approaching the tent, I leap into action and hit the switch
 
 Darkness engulfed the tent and a cacophony of "WTFs" soon rang out.  The next few seconds were intense.  What if I was wrong?  Our tent was the next to last on the row, the Sgt could have been going to that tent.  If I was wrong, I just painted a target on myself for the next 6 months and I hadn't even been here a week.  It was going to be a long deployment if I alienated my tent mates so early on.
 
-Within a few seconds, the Sgt knocked and poked her head inside requesting to speak with one of the Cpls.  Walking by he whispered "Thanks" and, while I didn't get put in for a medal of honor for my actions, that was reward enough for me.  Going to the door, turning around and doing my best [https://www.youtube.com/watch?v=dNB_RjpWnsI]Nick Burns "Oh, Yeah... YOU'RE WELCOME" impression to everyone else in the tent was just the icing on the cake.
+Within a few seconds, the Sgt knocked and poked her head inside requesting to speak with one of the Cpls.  Walking by he whispered "Thanks" and, while I didn't get put in for a medal of honor for my actions, that was reward enough for me.  Going to the door, turning around and doing my best [https://www.youtube.com/watch?v=dNB_RjpWnsI](Nick Burns "Oh, Yeah... YOU'RE WELCOME") impression to everyone else in the tent was just the icing on the cake.
 
-[https://wordpress.com/posts/k3ntuckydesign.wordpress.com]View Posts
+[https://wordpress.com/posts/k3ntuckydesign.wordpress.com](View Posts)
 
-Most stories have a lesson and this one is no different.  So what did you learn?: Did you learn not to mess around with porn while deployed in a country where it's illegal? Did you learn the importance of awareness and to listen to everyone in your group regardless of their rank? Did you learn that, sometimes, you must step out of your comfortable zone for the good of the group?
+Most stories have a lesson and this one is no different.  So what did you learn?:
+-Did you learn not to mess around with porn while deployed in a country where it's illegal?
+-Did you learn the importance of awareness and to listen to everyone in your group regardless of their rank?
+-Did you learn that, sometimes, you must step out of your comfortable zone for the good of the group?
 
 Maybe you did, but I learned that **Death fears ME, Snitches!** Now have a good weekend, YOU MAGGOTS!
