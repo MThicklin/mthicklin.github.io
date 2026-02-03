@@ -7,7 +7,7 @@ comments: true
 categories: [ADHD, impulsive buying, neurodiverse]
 ---
 
-**-OR-How I learned to stop worrying and not impulsively buy stuff.**
+## -OR-How I learned to stop worrying and not impulsively buy stuff.
 
 As I learn more about what ADHD actually is (Turns out it's more then just 'can't pay attention'); I'm given more insight into myself and why my mind processes the way it does.  One aspect I learned to *mostly* control early on is the tendency to impulsively buy or collect stuff.
 

@@ -11,7 +11,9 @@ categories: [Comedy, Heroic Feats, Marine Corps, Military, Story Time, USMC]
 
 Dear reader, I don't usually tell the stories of my heroic feats while in the Marine Corps.  The unspoken heroes of  war don't do what they do expecting awards or accolades.  They act for the well being of their fellow warriors and the units ability to complete the mission.  But sometimes the biggest threat to a Marine's livelihood isn't the enemy, but themselves.
 
-With that being said, rest your weary bones (Or thumbs if you're reading this on mobile), dear reader.  Because it's **STORY TIME**!  Don't worry, all names have been forgotten to protect the not so innocent.
+With that being said, rest your weary bones (Or thumbs if you're reading this on mobile), dear reader.  Because it's **STORY TIME**!
+
+Don't worry, all names have been forgotten to protect the not so innocent.
 
 Back in 2002, I was a young Marine PFC (Private First Class - 2nd enlisted rank) on my way to Kuwait for the beginning of Operation: Enduring Freedom.  This was within 2 weeks of getting to my first station, so mom and dad were *thrilled*.
 
